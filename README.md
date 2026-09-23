@@ -170,3 +170,14 @@ games/new-game/sets/...
 and add a new game object to `manifest.json`.
 
 No HeroClix-specific assumptions should be required by the data repository itself.
+
+
+## Thunderbolts V3/G3
+
+V3/G3 adds one Legacy Card brick topper per brick. Brick requests include one topper, case requests include one topper for each of their two bricks, and pack requests contain no brick topper. V1/G1 and V2/G2 remain available for deterministic reproduction of previously issued codes.
+
+### V3/G3 Thunderbolts refinements
+
+V3/G3 models the 12 booster extras as a balanced distribution centered on one extra per pack. The displacement distribution uses weights 95/4/1 for 0/1/2 displacements. A displacement moves one extra from one booster to another, so every displacement creates one matched dead pack (0 extras) and double pack (2 extras) while preserving exactly 12 extras per brick (8 One Shots + 4 Terrain). Because 95+4+1=100, these are weights, corresponding to approximately 95%, 4%, and 1%.
+
+Prime printed rarity is weighted 10:2 Rare:Super Rare, matching the observed 10 Rare Prime and 2 Super Rare Prime bricks among Prime-containing observations. Legacy Cards remain one brick topper per brick and never appear in Pack requests.
