@@ -1,0 +1,748 @@
+{
+  "schema_version": 1,
+  "set_id": "fight-for-gotham-city",
+  "set_name": "Fight for Gotham City",
+  "source": "set_with_unit_id.xml + HCUnits product_type cross-check (standard sealed-product pool)",
+  "cards": [
+    {
+      "model_id": "49cb883a-9618-4157-ac80-39078e4a39ea",
+      "name": "Batman",
+      "collector_number": "001",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "1bf01a79-9529-4e2e-816e-b0d7bf6b5972",
+      "name": "Red Hood Gang",
+      "collector_number": "002",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": "Generic | Expendable Goon"
+    },
+    {
+      "model_id": "77f81231-cbe1-475e-ace8-afe87c207ef9",
+      "name": "Assassin Recruit",
+      "collector_number": "003",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": "Generic"
+    },
+    {
+      "model_id": "0af4f53e-ef85-4de3-86a8-dbda3c82371d",
+      "name": "Arkham Orderly",
+      "collector_number": "004",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": "Generic | Expendable Goon"
+    },
+    {
+      "model_id": "e30bdd7d-ac75-4754-a24c-54a98b48559c",
+      "name": "Red Hood",
+      "collector_number": "005",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "6d500484-87b3-4c75-80ee-34af1e90a712",
+      "name": "Gotham City Detective",
+      "collector_number": "006",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": "Generic"
+    },
+    {
+      "model_id": "e6aa8751-303c-4210-ae35-e37eca48c91a",
+      "name": "Rat",
+      "collector_number": "007",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": "Generic"
+    },
+    {
+      "model_id": "61842950-8aa9-439e-84e5-3de1cb2890ba",
+      "name": "Penguin Robot",
+      "collector_number": "008",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": "Expendable Goon"
+    },
+    {
+      "model_id": "83712cfb-3ff7-4441-868c-b0f11495901d",
+      "name": "Clay Critter",
+      "collector_number": "009",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": "Expendable Goon"
+    },
+    {
+      "model_id": "979cafdc-b927-4f3e-a88a-ed05a5ba79e0",
+      "name": "Scarecrow Goon",
+      "collector_number": "010",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": "Generic | Expendable Goon"
+    },
+    {
+      "model_id": "d11c7aa6-2359-473b-8501-9fa20b5917b4",
+      "name": "Tweedledee",
+      "collector_number": "011",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "a268fe86-b6c0-4535-8216-9bf9c321de70",
+      "name": "Black Mask",
+      "collector_number": "012",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "413949c3-165a-4658-b3ef-39b9f72bf8d7",
+      "name": "Arsenal",
+      "collector_number": "013",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "f6bf5e0b-ce8a-41ff-b21a-ae5d13da1435",
+      "name": "Scarecrow",
+      "collector_number": "014",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "8ab15e00-a70f-4085-9d26-58d283bd6318",
+      "name": "Astral Raven",
+      "collector_number": "015",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "0eb4f69d-cf07-4cfc-b8bf-58e8966906d6",
+      "name": "Astral Martian Manhunter",
+      "collector_number": "016",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "fbe20951-26d6-46b8-822a-42a043805de1",
+      "name": "B'dg",
+      "collector_number": "017",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "a26f73b5-4ff6-4a50-8f14-febafac5d0a2",
+      "name": "Dick Grayson",
+      "collector_number": "018",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "647b35c2-c69e-41dc-8f69-20834130849d",
+      "name": "Red Hood",
+      "collector_number": "019",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "e1b2a099-5a2e-46b7-b446-9efca69ab83b",
+      "name": "Lady Shiva",
+      "collector_number": "020",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "578771c8-035d-4d36-b957-41453a379178",
+      "name": "Hugo Strange",
+      "collector_number": "021",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "3ed73c47-4ff7-4058-9b8f-72c565042b13",
+      "name": "Jason Todd",
+      "collector_number": "022",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "2ca9368f-56c8-46d9-833d-fdff80f84998",
+      "name": "The Question",
+      "collector_number": "023",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "35202203-9496-4e08-8071-6e7e4e7186b2",
+      "name": "Beast Boy",
+      "collector_number": "024",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "5ae6b78b-c1de-427e-85ac-2d8e8a8389a2",
+      "name": "Beast Boy",
+      "collector_number": "025",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "2276f946-ee03-4928-9113-5b72c7618e6d",
+      "name": "Batarang",
+      "collector_number": "026",
+      "unit_type": "Equipment",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "cbe16ea4-bdda-4b45-bcba-f18e76a8da4a",
+      "name": "Tim Drake",
+      "collector_number": "027",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "3e8afa20-fb97-4c01-9628-277de9aa5b67",
+      "name": "Tweedledum",
+      "collector_number": "028",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "5407de53-5564-4682-8bfb-522c96b48bd1",
+      "name": "Jeremiah Arkham",
+      "collector_number": "029",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "1ad802db-d0b2-4ca5-a61a-063c072b44c7",
+      "name": "Merlyn",
+      "collector_number": "030",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "9c8619a0-4a5b-49ac-b196-39d45e0a1874",
+      "name": "Lucius Fox",
+      "collector_number": "031",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "ff2fd276-399a-4482-8d53-999cbd743be6",
+      "name": "Deadman",
+      "collector_number": "032",
+      "unit_type": "Attachment",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": "Unique | Sideline Active"
+    },
+    {
+      "model_id": "7091a498-cede-440d-941a-a5d4371a33ea",
+      "name": "Bizarro",
+      "collector_number": "033",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "971d459f-fe06-4e9d-9d62-95d95af1714a",
+      "name": "Raven",
+      "collector_number": "034",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "33041e19-62ab-4f39-9d9f-8073b64fe5a5",
+      "name": "Martian Manhunter",
+      "collector_number": "035",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "c0ecca20-210d-4ad7-8e17-74db73409b42",
+      "name": "B'dg",
+      "collector_number": "036",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "bd7ae42d-6025-4e1a-be51-abea2402ae9e",
+      "name": "Alfred",
+      "collector_number": "037a",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "f8307f97-d029-4dc3-9b5d-0adf0dd2efad",
+      "name": "Ventriloquist",
+      "collector_number": "037b",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": true,
+      "properties": "Prime"
+    },
+    {
+      "model_id": "e6dfd16f-f58f-49b7-9223-0de1d995c89e",
+      "name": "Robin",
+      "collector_number": "038",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "b8612806-53ae-44fa-81fa-1a9f43c5aa8c",
+      "name": "Batgirl",
+      "collector_number": "039",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "5397f752-fa93-4790-a9ec-c41a4144315a",
+      "name": "Nightwing",
+      "collector_number": "040",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "862f247e-e3c1-4d08-8ad7-417450873c0f",
+      "name": "Commissioner Gordon",
+      "collector_number": "041a",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "126f4456-d4e0-4a24-962d-4db011ee9763",
+      "name": "Christopher Chance",
+      "collector_number": "041b",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": true,
+      "properties": "Prime | Nonstandard"
+    },
+    {
+      "model_id": "ff7f74de-94bc-4803-ae18-6d054c41e19e",
+      "name": "Richard Dragon",
+      "collector_number": "042",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "a1f4af44-881e-41c1-8a12-ab4fe5994777",
+      "name": "Ratcatcher",
+      "collector_number": "043",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "855b94e5-cdfe-47e8-b18a-9b1b1dd3ff43",
+      "name": "Professor Pyg",
+      "collector_number": "044",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "2b610621-0e31-4408-af45-ab182373ad5a",
+      "name": "Pied Piper",
+      "collector_number": "045",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "1bafca13-c3f5-4001-9e4b-6b9d77006582",
+      "name": "Clayface",
+      "collector_number": "046",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "3a1b5bb7-c238-40ea-86f8-22fed4c157f7",
+      "name": "Deathstroke",
+      "collector_number": "047a",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "27136664-94e4-49e9-90b6-d87e118bdaf3",
+      "name": "Slade Wilson",
+      "collector_number": "047b",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": true,
+      "properties": "Prime"
+    },
+    {
+      "model_id": "523461fe-665d-4435-b2ac-9266b76b08f3",
+      "name": "Cyborg",
+      "collector_number": "048",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "1ef81e69-d60a-40e8-a3d0-29372d2cfe54",
+      "name": "Wally West",
+      "collector_number": "049",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "d2cc8ed2-35b2-47e6-a7e5-c5a4c80d7bda",
+      "name": "Cheshire",
+      "collector_number": "050",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "7c17a88b-5cd7-4afe-809d-aa1b1a7d0a1d",
+      "name": "Bronze Tiger",
+      "collector_number": "051",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "bc322e71-998b-4444-b6b3-330f69ba3268",
+      "name": "Batman Ninja",
+      "collector_number": "052",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "c51c2f30-3674-42e2-b9de-ab25a532d96a",
+      "name": "Blackfire",
+      "collector_number": "053a",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "1dd75210-6e7c-440c-b142-8a429ba9ac16",
+      "name": "Starfire",
+      "collector_number": "053b",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": true,
+      "properties": "Prime"
+    },
+    {
+      "model_id": "808033fa-0231-4733-ba71-5b38ff1e1c7a",
+      "name": "Batman",
+      "collector_number": "054",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "a9a873a2-5dbd-42aa-9071-32063d2245c7",
+      "name": "Superman",
+      "collector_number": "055",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "747895e2-01ba-4c53-be53-80111548a85c",
+      "name": "Wonder Woman",
+      "collector_number": "056",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "059949bd-dde1-4041-a4bd-bc59b061951b",
+      "name": "The Flash",
+      "collector_number": "057",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "a1b1516c-9183-4253-a40f-ed70aee58b07",
+      "name": "Green Lantern",
+      "collector_number": "058",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "dbf712bb-103f-4966-ad54-52c072fb99ce",
+      "name": "Martian Manhunter",
+      "collector_number": "059",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "d95f7826-1318-4399-90e6-ae96c971a323",
+      "name": "Batman",
+      "collector_number": "060",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "a531f812-36d1-4590-8431-6eb055aa8417",
+      "name": "The Joker",
+      "collector_number": "061",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "fb2e4ce3-0ad7-4e88-84cf-c0752fe9b6e0",
+      "name": "Scarecrow",
+      "collector_number": "062",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "b29bc7f7-b368-4096-bd5c-048b87f3ce3b",
+      "name": "Talia Al-Ghul",
+      "collector_number": "063",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "c75e1b81-ca18-430d-b137-b1c224a0443e",
+      "name": "Maxie Zeus",
+      "collector_number": "L027",
+      "unit_type": "Legacy Card",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "e683eaf7-cb31-4916-a73e-aff8efb19193",
+      "name": "Calculator",
+      "collector_number": "L029",
+      "unit_type": "Legacy Card",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "a7f82564-c01f-4cec-b583-60fdcf301588",
+      "name": "Robin",
+      "collector_number": "L031",
+      "unit_type": "Legacy Card",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": "Sideline Active"
+    },
+    {
+      "model_id": "34e1f7d6-3312-4a81-94da-66e55a560a98",
+      "name": "Condiment King",
+      "collector_number": "L038",
+      "unit_type": "Legacy Card",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "90f2027d-8e7f-40b4-b182-f579a652ee34",
+      "name": "Firefly",
+      "collector_number": "L048",
+      "unit_type": "Legacy Card",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "a221bcad-1b7d-4919-baff-5becba8eec86",
+      "name": "Mr. Freeze",
+      "collector_number": "L049",
+      "unit_type": "Legacy Card",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "9fe9bde8-4965-40c9-9095-6f45c47643f1",
+      "name": "The Joker",
+      "collector_number": "L050",
+      "unit_type": "Legacy Card",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "af56bb8a-a56c-48db-b993-b0519111ada6",
+      "name": "Batman and Catwoman",
+      "collector_number": "L100",
+      "unit_type": "Legacy Card",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "a36c6991-a04c-4d95-bcdb-ef999fd4d5ff",
+      "name": "Lock-Pick Tools",
+      "collector_number": "OS001",
+      "unit_type": "One Shot",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "fa4688b1-1def-4e7f-9124-796a557f7119",
+      "name": "Bola",
+      "collector_number": "OS002",
+      "unit_type": "One Shot",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "62debdc2-2114-49d2-b1a3-cc00a70ed3b2",
+      "name": "Night-Vision Goggles",
+      "collector_number": "OS003",
+      "unit_type": "One Shot",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "37bd6c12-e914-47aa-85a6-1671ad4ddfc9",
+      "name": "Rebreathing Apparatus",
+      "collector_number": "OS004",
+      "unit_type": "One Shot",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "363e19a2-d554-413e-9c5b-baf0a6877331",
+      "name": "Take the Shot",
+      "collector_number": "OS007",
+      "unit_type": "One Shot",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "180d32db-2bd3-4d68-8973-6d5540d911d5",
+      "name": "King of Kung Fu",
+      "collector_number": "OS008",
+      "unit_type": "One Shot",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "77b40d5b-5c8e-42dd-bd60-b80c82cb0ea3",
+      "name": "Helicopter Extraction",
+      "collector_number": "OS009",
+      "unit_type": "One Shot",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    }
+  ],
+  "catalog_version": 1,
+  "game_id": "heroclix"
+}
