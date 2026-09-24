@@ -22,6 +22,22 @@
           "current_config_version": 1,
           "engine_version": 1,
           "config_path": "games/heroclix/sets/fight-for-gotham-city/configs/v1.json"
+        },
+        {
+          "id": "venom",
+          "code": "VE",
+          "name": "Marvel HeroClix: Venom",
+          "current_config_version": 1,
+          "engine_version": 1,
+          "config_path": "games/heroclix/sets/venom/configs/v1.json"
+        },
+        {
+          "id": "strange-tales",
+          "code": "ST",
+          "name": "Marvel HeroClix: Strange Tales",
+          "current_config_version": 1,
+          "engine_version": 1,
+          "config_path": "games/heroclix/sets/strange-tales/configs/v1.json"
         }
       ]
     }

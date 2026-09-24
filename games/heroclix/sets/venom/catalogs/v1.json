@@ -1,0 +1,811 @@
+{
+  "schema_version": 1,
+  "set_id": "venom",
+  "set_name": "Venom",
+  "source": "HCUnits product/source classification cross-checked to installed OCTGN Venom set.xml",
+  "cards": [
+    {
+      "model_id": "566afb82-4d26-40eb-bc95-61c2b52e9bbe",
+      "name": "Venom",
+      "collector_number": "001",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "77256265-9f3d-4372-8533-fffeddefc075",
+      "name": "Jeff the Land Shark",
+      "collector_number": "002",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "81f36245-760b-4a01-926e-450c3c5f383f",
+      "name": "Private Detective",
+      "collector_number": "003",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "412c52c1-e3ba-473c-9590-575884d72edd",
+      "name": "Vermin",
+      "collector_number": "004",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "a13b51c1-5433-4071-9842-8557cfe2e743",
+      "name": "Spider-Man",
+      "collector_number": "005",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "1bd9dd8c-3e35-47d1-80fd-d4defcac3750",
+      "name": "Symbiote Soldier",
+      "collector_number": "006",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": "Generic | Expendable Goon"
+    },
+    {
+      "model_id": "86eaa954-8198-402f-bd56-b6849c40e969",
+      "name": "Carnage",
+      "collector_number": "007",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "9f3fc20b-cae6-4fe3-b3fd-7f42c3b01184",
+      "name": "Zombiote",
+      "collector_number": "008",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": "Generic"
+    },
+    {
+      "model_id": "2e3f1f9c-d30c-4675-937d-62a10593cfd4",
+      "name": "Hive",
+      "collector_number": "009",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": "Generic"
+    },
+    {
+      "model_id": "2b2e06a1-9dc3-42b3-bd6c-5773c49edff5",
+      "name": "Black Widow",
+      "collector_number": "010",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "9b942771-499e-4514-8986-fff96b934aa3",
+      "name": "Venom-Bot",
+      "collector_number": "011",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "dce8bf01-4d65-4466-b700-995a307cbeac",
+      "name": "Klyntar Symbiote",
+      "collector_number": "012",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "1647ec97-3118-4629-84c1-5e42bcbf2948",
+      "name": "Spider-Man",
+      "collector_number": "013",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "23867e6e-87c2-4c92-a02c-c5260d58fd97",
+      "name": "Venom",
+      "collector_number": "014",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "8b58e792-5ec3-431e-ad68-ac08abb996fa",
+      "name": "Eganrac",
+      "collector_number": "014b",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "a4592ab2-8931-4691-916e-c52de73fb5f4",
+      "name": "Sleeper",
+      "collector_number": "015",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "4a3c4ccc-e52f-4fcd-8e66-6391371bafcb",
+      "name": "Eddie Brock",
+      "collector_number": "016",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "7e32aea8-c1e0-4e20-afa1-d4a694cbe2f0",
+      "name": "Venomized Jeff the Land Shark",
+      "collector_number": "017",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "78bbf90c-3e9e-457b-8277-6c3b9c2c82f1",
+      "name": "Mac Gargan",
+      "collector_number": "018",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "642b4248-ed83-4502-b5f2-7e34ffc77bbe",
+      "name": "Lizard",
+      "collector_number": "019",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "9de3b3db-d389-4b39-8dbb-ece08a2217cf",
+      "name": "Spider-Man 2",
+      "collector_number": "020",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "586e5e98-e788-4549-9e58-89778a92dc4e",
+      "name": "Rex Strickland",
+      "collector_number": "021",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "40d220cf-944f-4553-9772-ec238ce2f4e1",
+      "name": "Phage",
+      "collector_number": "022",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "ad7211b8-46b7-48f0-97f3-b2d507ca5675",
+      "name": "Maniac",
+      "collector_number": "023",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "c3252af3-90c4-4a83-86a2-44dcf8e0baee",
+      "name": "Lasher",
+      "collector_number": "024",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "f31ed318-aaa5-4267-81f2-8e8eddc80267",
+      "name": "Sliver",
+      "collector_number": "025",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "9ff8bf68-e60b-4858-a411-d24ade8fbc8e",
+      "name": "Symbiote Surface",
+      "collector_number": "026",
+      "unit_type": "Terrain Marker",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": "Not Unique"
+    },
+    {
+      "model_id": "6a585ddf-ab5b-44e4-a15d-710b20c1c6de",
+      "name": "Manhole Cover",
+      "collector_number": "027",
+      "unit_type": "Terrain Marker",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": "Not Unique"
+    },
+    {
+      "model_id": "63815a54-f178-4ef6-b3e4-966e16f27e76",
+      "name": "Chasm",
+      "collector_number": "028",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "aa10ff88-298b-4b8e-9bba-890017329c4b",
+      "name": "Virus",
+      "collector_number": "029a",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "14170ef4-aa06-4cc7-b3d5-bd227b8efd88",
+      "name": "Agent Anti-Venom",
+      "collector_number": "029b",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": true,
+      "properties": "Prime"
+    },
+    {
+      "model_id": "f778e0c0-2127-4dcd-b5e7-50c52031b7eb",
+      "name": "Poison Spider-Man",
+      "collector_number": "030",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "f172905d-5773-42ac-ab4e-5710394c5d40",
+      "name": "Elektra",
+      "collector_number": "031a",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "64d15a0e-df88-4bc1-8a13-a76f13c0251e",
+      "name": "Carnage Elektra",
+      "collector_number": "031b",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": true,
+      "properties": "Prime"
+    },
+    {
+      "model_id": "8d46b1a9-2aed-47ee-82aa-c3800f23199a",
+      "name": "Venomized Miles Morales",
+      "collector_number": "032",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "addec0f7-5dd7-455e-93aa-ffb9a2cf5477",
+      "name": "Riot",
+      "collector_number": "033",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "d7a0ad8f-dd1b-4be3-84df-435b1c03ee79",
+      "name": "Pork Grind",
+      "collector_number": "034",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "ee8b38d3-b603-445f-8588-12511da4bc41",
+      "name": "Gorr the God Butcher",
+      "collector_number": "035",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "72929f9f-48b3-4a3a-86f1-c7d039cd05eb",
+      "name": "Spider-Boy",
+      "collector_number": "036",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "d0f0c0d3-ae7e-4ac1-b297-19a9d3366890",
+      "name": "Maker",
+      "collector_number": "037",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "bf0f24e1-da36-4610-b15a-8681f1d88634",
+      "name": "Gwenom",
+      "collector_number": "038",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "19ad9eb3-3197-4699-9ca2-89be0a7415db",
+      "name": "Venom's Axe",
+      "collector_number": "039",
+      "unit_type": "Equipment",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "f7a3a964-3c6b-4ece-bcc0-33b12d0dcb09",
+      "name": "All-Blood the Necrospear",
+      "collector_number": "040",
+      "unit_type": "Equipment",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "70f5b702-23e3-4b9a-9817-86195026dd07",
+      "name": "Poison Doom",
+      "collector_number": "041",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "b3ec84bd-3e0d-46ff-8536-1d20a23f054c",
+      "name": "Iron Man",
+      "collector_number": "042",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "623a3898-c195-4c0d-8140-4d24daab38f9",
+      "name": "Poison Captain America",
+      "collector_number": "043",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "cc38c137-8220-4162-9a6a-b10dad438241",
+      "name": "Malekith",
+      "collector_number": "044",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "4ad674a0-89ae-40da-8f06-b51bf2ab98ce",
+      "name": "Meridius",
+      "collector_number": "045",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "60fd02af-0765-4a05-9b91-3a170bb803a1",
+      "name": "Lasher",
+      "collector_number": "046",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "42977ba2-f9cd-4e38-ba1d-aaa807598289",
+      "name": "Agony",
+      "collector_number": "047a",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "152d3138-6666-46e3-b322-4d437246c496",
+      "name": "Scream",
+      "collector_number": "047b",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": true,
+      "properties": "Prime"
+    },
+    {
+      "model_id": "bde8e521-d133-4140-9083-f44c7df916d6",
+      "name": "Codex",
+      "collector_number": "048",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "92446639-90ba-4083-9f59-e2972bffff9e",
+      "name": "Host Rider",
+      "collector_number": "049",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "06e68b44-8e2d-4d5e-ab55-ab6e8b1f9212",
+      "name": "Scorpion",
+      "collector_number": "050a",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "86cded02-8b25-4b98-b15d-b625745e8d9b",
+      "name": "Venom",
+      "collector_number": "050b",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": true,
+      "properties": "Prime"
+    },
+    {
+      "model_id": "7ab456bb-b16e-47ce-b6d3-36ce47472d9c",
+      "name": "Venom",
+      "collector_number": "051",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "4c6ad8b8-c573-47ff-8ba9-ae3ab1bdb4af",
+      "name": "Old Man Venom",
+      "collector_number": "052",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "93afbd6b-14bd-4fe2-822c-c95ae689bc7d",
+      "name": "Poison Thanos",
+      "collector_number": "053",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "523371c8-822c-42a3-a9cd-0550afeb9cb8",
+      "name": "Venomized Phoenix Force",
+      "collector_number": "054",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "232a6cc1-a316-4603-b5f7-f3eb0c1f29b9",
+      "name": "Hybrid",
+      "collector_number": "055",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": "Unique | Sideline Active"
+    },
+    {
+      "model_id": "bdc17479-d3a6-48bc-b725-12c1be1d9a66",
+      "name": "Carnage, God of Symbiotes",
+      "collector_number": "056",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "e7ddb024-a780-4bfc-9781-9c72b888cbdf",
+      "name": "Loki the All-Butcher",
+      "collector_number": "057",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "ab64eebe-07e2-4e44-808d-47356e68cc61",
+      "name": "Spider-Man",
+      "collector_number": "058",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "6e41d054-9369-48e0-9181-6d2e5251113f",
+      "name": "Knull",
+      "collector_number": "059",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "04a24a4a-9c23-4708-9fe5-3389154a83be",
+      "name": "Klyntar",
+      "collector_number": "060",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "712917e3-fdab-418d-983a-81d4c12b4788",
+      "name": "Venom, Space Knight",
+      "collector_number": "L023",
+      "unit_type": "Legacy Card",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "2dec620a-eab3-49d3-8056-6c28d9b5afa3",
+      "name": "Anti-Venom",
+      "collector_number": "L025",
+      "unit_type": "Legacy Card",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "a359be5a-42ab-4f88-9250-c19231d7bf93",
+      "name": "Demogoblin",
+      "collector_number": "L029",
+      "unit_type": "Legacy Card",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "21354e47-a2e2-4fdc-a318-3e4848b1c7d6",
+      "name": "Carrion",
+      "collector_number": "L038",
+      "unit_type": "Legacy Card",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "3bfe5ed1-9f2a-4917-b032-83cd29513955",
+      "name": "Shriek",
+      "collector_number": "L048",
+      "unit_type": "Legacy Card",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "341c7c85-2e1a-4a1b-bb88-893194c7242f",
+      "name": "Doppelganger",
+      "collector_number": "L053a",
+      "unit_type": "Legacy Card",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "a3c4c47c-11c5-4904-87ec-154aa612faa9",
+      "name": "Venom Iceman",
+      "collector_number": "L054",
+      "unit_type": "Legacy Card",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "90bbba9f-d6fd-4f04-900e-8ae0a0c3a38d",
+      "name": "Venom Captain Marvel",
+      "collector_number": "L056",
+      "unit_type": "Legacy Card",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "4d5e5261-de4f-4554-b842-bfefe4003eb3",
+      "name": "Separation Anxiety",
+      "collector_number": "OS001",
+      "unit_type": "One Shot",
+      "rarity": null,
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "ee3d5be0-7c80-4fb9-a45d-f97f7581cd3b",
+      "name": "Lethal Protector",
+      "collector_number": "OS002",
+      "unit_type": "One Shot",
+      "rarity": null,
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "db28b61a-49c2-46d3-abcf-efec6f846f2e",
+      "name": "Maximum Carnage",
+      "collector_number": "OS003",
+      "unit_type": "One Shot",
+      "rarity": null,
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "0a0ddc9c-d86f-475a-9274-4fcd67044fb1",
+      "name": "Concealed Costume",
+      "collector_number": "OS004",
+      "unit_type": "One Shot",
+      "rarity": null,
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "ada35b79-8f0a-4932-8824-3fba162070e8",
+      "name": "Alien Hunger",
+      "collector_number": "OS005",
+      "unit_type": "One Shot",
+      "rarity": null,
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "2d3129a4-1e0a-4088-a442-c927b2c1cec2",
+      "name": "Alpha-Magni Illuminizor",
+      "collector_number": "OS006",
+      "unit_type": "One Shot",
+      "rarity": null,
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "27509cb9-6dab-4d64-aa2e-150bd7b0e584",
+      "name": "Into The Venomverse",
+      "collector_number": "OS007",
+      "unit_type": "One Shot",
+      "rarity": null,
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "9c244009-4253-4baf-bf78-b50538bcae20",
+      "name": "The Enemy Within",
+      "collector_number": "OS008",
+      "unit_type": "One Shot",
+      "rarity": null,
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "8fe8eef5-ae66-4058-af8f-1d1f4c98c99b",
+      "name": "Double Trouble",
+      "collector_number": "OS009",
+      "unit_type": "One Shot",
+      "rarity": null,
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "d784acc5-7975-4e0c-a593-06a0d33bf808",
+      "name": "Let There Be Carnage",
+      "collector_number": "OS010",
+      "unit_type": "One Shot",
+      "rarity": null,
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "38155f06-b724-43c8-8418-22e8bdd3b97d",
+      "name": "Life Foundation",
+      "collector_number": "OS011",
+      "unit_type": "One Shot",
+      "rarity": null,
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "0d1c087a-f5f6-4f16-9b5d-035212b69676",
+      "name": "Zombiote Infection",
+      "collector_number": "OS012",
+      "unit_type": "One Shot",
+      "rarity": null,
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "c4ffc6c2-1419-43fd-aa72-441ff51d2e37",
+      "name": "Hive Incursion",
+      "collector_number": "OS013",
+      "unit_type": "One Shot",
+      "rarity": null,
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "06ba9b44-ae39-47fe-9462-18684ba1f9a8",
+      "name": "Ravencroft Institute",
+      "collector_number": "OS014",
+      "unit_type": "One Shot",
+      "rarity": null,
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "09404186-7a63-4bb9-9921-cfb6740cbb20",
+      "name": "Venomize",
+      "collector_number": "OS015",
+      "unit_type": "One Shot",
+      "rarity": null,
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "6083e532-4a92-4048-83fa-5bcbf2ab4763",
+      "name": "Sewer Retreat",
+      "collector_number": "OS016",
+      "unit_type": "One Shot",
+      "rarity": null,
+      "prime": false,
+      "properties": ""
+    }
+  ],
+  "catalog_version": 1,
+  "game_id": "heroclix"
+}

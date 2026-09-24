@@ -1,0 +1,240 @@
+{
+  "schema_version": 1,
+  "name": "Marvel HeroClix: Strange Tales",
+  "catalog_url": "../catalogs/v1.json",
+  "cache_seconds": 300,
+  "case": {
+    "bricks_per_case": 2
+  },
+  "brick": {
+    "boosters_per_brick": 12,
+    "booster_uniqueness": true,
+    "base_profiles": [
+      {
+        "count": 8,
+        "slots": [
+          "common",
+          "common",
+          "common",
+          "uncommon",
+          "rare"
+        ]
+      },
+      {
+        "count": 4,
+        "slots": [
+          "common",
+          "common",
+          "uncommon",
+          "uncommon",
+          "rare"
+        ]
+      }
+    ],
+    "substitutions": [
+      {
+        "id": "character_sr",
+        "from_category": "rare",
+        "to_category": "character_sr",
+        "pool": "character_sr",
+        "count": 3
+      },
+      {
+        "id": "standard_chase",
+        "from_category": "rare",
+        "to_category": "standard_chase",
+        "pool": "standard_chase",
+        "count": 1
+      },
+      {
+        "id": "attachment",
+        "from_category": "common",
+        "to_category": "attachment",
+        "pool": "attachment",
+        "count_distribution": [
+          {
+            "value": 3,
+            "weight": 2
+          },
+          {
+            "value": 4,
+            "weight": 4
+          },
+          {
+            "value": 5,
+            "weight": 2
+          }
+        ]
+      }
+    ],
+    "prime": {
+      "pool": "prime",
+      "count_distribution": [
+        {
+          "value": 0,
+          "weight": 1
+        },
+        {
+          "value": 1,
+          "weight": 2
+        }
+      ],
+      "target_categories_by_printed_rarity": {
+        "Rare": [
+          "rare"
+        ],
+        "Super Rare": [
+          "character_sr"
+        ]
+      },
+      "printed_rarity_distribution": [
+        {
+          "rarity": "Rare",
+          "weight": 1
+        },
+        {
+          "rarity": "Super Rare",
+          "weight": 1
+        }
+      ]
+    },
+    "extras": {
+      "assignment": "random_bounded",
+      "groups": [
+        {
+          "pool": "one_shot",
+          "count": 8,
+          "category": "one_shot"
+        }
+      ],
+      "max_per_booster": 1
+    },
+    "toppers": {
+      "groups": [
+        {
+          "pool": "legacy_card",
+          "count": 1,
+          "category": "brick_topper"
+        }
+      ]
+    }
+  },
+  "pools": {
+    "common": {
+      "unit_types": [
+        "Character"
+      ],
+      "rarities": [
+        "Common"
+      ],
+      "prime": false
+    },
+    "uncommon": {
+      "unit_types": [
+        "Character"
+      ],
+      "rarities": [
+        "Uncommon"
+      ],
+      "prime": false
+    },
+    "rare": {
+      "unit_types": [
+        "Character"
+      ],
+      "rarities": [
+        "Rare"
+      ],
+      "prime": false
+    },
+    "character_sr": {
+      "unit_types": [
+        "Character"
+      ],
+      "rarities": [
+        "Super Rare"
+      ],
+      "prime": false
+    },
+    "prime": {
+      "unit_types": [
+        "Character"
+      ],
+      "prime": true
+    },
+    "standard_chase": {
+      "unit_types": [
+        "Character"
+      ],
+      "rarities": [
+        "Chase"
+      ],
+      "collector_numbers": [
+        "050",
+        "051",
+        "052",
+        "053",
+        "054",
+        "055",
+        "056",
+        "057"
+      ]
+    },
+    "attachment": {
+      "unit_types": [
+        "Attachment"
+      ],
+      "collector_numbers": [
+        "029",
+        "030",
+        "031",
+        "p001",
+        "p002",
+        "p003"
+      ]
+    },
+    "one_shot": {
+      "unit_types": [
+        "One Shot"
+      ]
+    },
+    "legacy_card": {
+      "unit_types": [
+        "Legacy Card"
+      ]
+    }
+  },
+  "pool_policies": {
+    "common": {
+      "unique_scope": "none"
+    },
+    "uncommon": {
+      "unique_scope": "none"
+    },
+    "rare": {
+      "unique_scope": "none"
+    },
+    "character_sr": {
+      "unique_scope": "brick"
+    },
+    "prime": {
+      "unique_scope": "brick"
+    },
+    "standard_chase": {
+      "unique_scope": "brick"
+    },
+    "attachment": {
+      "unique_scope": "none"
+    },
+    "one_shot": {
+      "unique_scope": "brick"
+    },
+    "legacy_card": {
+      "unique_scope": "brick"
+    }
+  },
+  "config_version": 1,
+  "engine_version": 1,
+  "game_id": "heroclix",
+  "set_id": "strange-tales"
+}

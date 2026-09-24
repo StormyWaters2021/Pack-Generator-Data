@@ -1,0 +1,766 @@
+{
+  "schema_version": 1,
+  "set_id": "strange-tales",
+  "set_name": "Strange Tales",
+  "source": "set.xml (standard sealed-product pool; baseline V1)",
+  "cards": [
+    {
+      "model_id": "829d4713-9e0f-4569-907c-8aadc9a793b2",
+      "name": "Dr. Strange",
+      "collector_number": "001",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "9c4fb169-aa0a-4068-9b0d-c73939cd7cfa",
+      "name": "Clea",
+      "collector_number": "002",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "50c5c66c-e674-471a-b074-f2c73e942003",
+      "name": "Baron Mordo",
+      "collector_number": "003",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "e1e38f0e-4b5c-4d8e-8020-58208b27924c",
+      "name": "Paranormal Investigator",
+      "collector_number": "004",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": "Generic"
+    },
+    {
+      "model_id": "816998f5-9fd8-4a03-9188-52bb8c8114e8",
+      "name": "Vampire",
+      "collector_number": "005",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": "Generic"
+    },
+    {
+      "model_id": "b0f225d7-af88-4d9c-b6a6-e708723c3ddb",
+      "name": "Darkhold Redeemer",
+      "collector_number": "006",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": "Generic"
+    },
+    {
+      "model_id": "5e63ddae-b573-44dd-b824-6331451af194",
+      "name": "Cat Familiar",
+      "collector_number": "007",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": "Generic"
+    },
+    {
+      "model_id": "67a4f8c6-7e5c-4f74-86d5-549ad3f57806",
+      "name": "Enchantress",
+      "collector_number": "008",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "4eaa7b6a-25e6-41ef-a246-2d3823b00b1a",
+      "name": "Mindless One",
+      "collector_number": "009",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": "Generic | Expendable Goon"
+    },
+    {
+      "model_id": "8835101a-a520-4c0e-a629-2f8e5540bb7b",
+      "name": "S.H.I.E.L.D. Spy",
+      "collector_number": "010",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": "Generic"
+    },
+    {
+      "model_id": "0a2af888-302a-41bb-b57e-6492f85f575a",
+      "name": "Nick Fury LMD",
+      "collector_number": "011",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": "Expendable Goon"
+    },
+    {
+      "model_id": "44b80303-c9cb-4035-88ff-0d0b69efce7c",
+      "name": "W.A.N.D. Agent",
+      "collector_number": "012",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": "Generic"
+    },
+    {
+      "model_id": "2a406104-f446-45bf-8a4b-2083624de8e7",
+      "name": "Astral Dormammu",
+      "collector_number": "013",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "303fab61-e0ee-4e83-8a3f-f16133575fa7",
+      "name": "Astral Scarlet Witch",
+      "collector_number": "014",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "c0c5a900-0213-4e4a-8c7e-7d5571441505",
+      "name": "Astral Agatha",
+      "collector_number": "015",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "75f088c4-3bda-4334-869b-fecaf0e679a1",
+      "name": "Ebony",
+      "collector_number": "016",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "421407bb-f720-4b76-a7d3-d14b794618f6",
+      "name": "Astral Dr. Strange",
+      "collector_number": "017",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": "Sideline Active"
+    },
+    {
+      "model_id": "4c8c6989-3838-45a2-af62-bf5d8e4c3d0e",
+      "name": "Astral Clea",
+      "collector_number": "018",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "26408fde-9c37-4ed1-9e70-8239983177ce",
+      "name": "Astral Baron Mordo",
+      "collector_number": "019",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "1418de59-94f6-4634-84d6-35cbf5c73484",
+      "name": "Hannibal King",
+      "collector_number": "020",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "7159ca03-d988-4de1-b719-2028c301c872",
+      "name": "Umar the Unrelenting",
+      "collector_number": "021",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "d2a5392a-f83e-421c-b0cf-221dc1afde97",
+      "name": "Dr. Druid",
+      "collector_number": "022",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "f6c76c59-61d1-4034-8f3d-d515585eb6de",
+      "name": "Kaecilius",
+      "collector_number": "023",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "40abeb95-57a1-494e-9733-7c2ff1394711",
+      "name": "Dum Dum Dugan",
+      "collector_number": "024",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "940d4a04-1a0b-494f-a5ea-bfe8643e9c9d",
+      "name": "Nick Fury",
+      "collector_number": "025",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "429e3e94-17c2-491b-b9bb-01b49b3e68af",
+      "name": "Wong",
+      "collector_number": "026",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "53eec703-0d97-4f34-95ab-102db8de8e5c",
+      "name": "Frank Drake",
+      "collector_number": "027",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "24b73650-7b59-414f-81ca-92f8dc1fb449",
+      "name": "Mindless One",
+      "collector_number": "028",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": "Generic | Expendable Goon"
+    },
+    {
+      "model_id": "ea0855b6-b1ca-4263-8720-e7f275d55026",
+      "name": "Shanzar",
+      "collector_number": "029",
+      "unit_type": "Attachment",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": "Unique | Sideline Active"
+    },
+    {
+      "model_id": "18587343-4083-4637-a5dd-876295628b0c",
+      "name": "Nightmare",
+      "collector_number": "030",
+      "unit_type": "Attachment",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": "Unique | Sideline Active"
+    },
+    {
+      "model_id": "f9c05fdd-cd10-4302-9719-6215b1bdc7a0",
+      "name": "Jericho Drumm",
+      "collector_number": "031",
+      "unit_type": "Attachment",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": "Unique | Sideline Active"
+    },
+    {
+      "model_id": "d38e8aba-e03a-4344-ba8d-c5f86c395cb5",
+      "name": "Dormammu",
+      "collector_number": "032",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "4f72e2a4-1fce-49ab-9574-dff8800bf418",
+      "name": "Scarlet Witch",
+      "collector_number": "033",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "3464d064-a211-4b0b-81f2-85c919c6c939",
+      "name": "Agatha",
+      "collector_number": "034",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "48d1e0d9-0bc7-41e4-ace4-cc1b9c39a04c",
+      "name": "Bloodstorm",
+      "collector_number": "035",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "7563db69-9dbc-49d5-86ca-ff6a41993be2",
+      "name": "Dr. Strange",
+      "collector_number": "036",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "cee4f0c0-157f-48f7-b34a-53907c83368c",
+      "name": "Blade",
+      "collector_number": "037a",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "ba1cff62-9bbe-48bf-a7f5-be203879ced6",
+      "name": "Blade",
+      "collector_number": "037b",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": true,
+      "properties": "Prime"
+    },
+    {
+      "model_id": "2511c249-5e39-45f0-955a-836be9b0602f",
+      "name": "Ghost Rider",
+      "collector_number": "038",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "61cfd526-6245-46fd-a90b-a4721091fdea",
+      "name": "Nightmare",
+      "collector_number": "039",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "53f6fbf2-c6f6-4433-a715-bd0ec83c6c0e",
+      "name": "Morbius",
+      "collector_number": "040",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "8b8461ff-208f-42a7-ae83-3554ac5db7ca",
+      "name": "Hulk",
+      "collector_number": "041a",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "4e217080-b22d-47ee-88c8-2724c436e22d",
+      "name": "Dark Hulk",
+      "collector_number": "041b",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": true,
+      "properties": "Prime"
+    },
+    {
+      "model_id": "bc4f3064-5460-41d8-af46-922a4dfa6f38",
+      "name": "Mephisto",
+      "collector_number": "042",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "d4e8f898-5a08-4083-8480-40e1bfc4cda6",
+      "name": "Dr. Strange",
+      "collector_number": "043a",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "ef88cbe2-28e8-44aa-ae08-b89f0e752983",
+      "name": "Dormammu",
+      "collector_number": "043b",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": true,
+      "properties": "Prime"
+    },
+    {
+      "model_id": "c8727527-7ce9-4175-b020-4215b830c010",
+      "name": "Nick Fury",
+      "collector_number": "044",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "39d5bf6c-1dd2-45fd-8e4c-6059d29e4e93",
+      "name": "Dracula",
+      "collector_number": "045",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "1585f738-8977-4b07-8074-11a8260b44b9",
+      "name": "Kushala",
+      "collector_number": "046",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "e75e0aa1-3aab-4e3b-94c3-e3c37efce954",
+      "name": "Baron von Strucker",
+      "collector_number": "047a",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "addad6aa-da43-4a8a-8b23-9b83e3c831bf",
+      "name": "Baron von Strucker",
+      "collector_number": "047b",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": true,
+      "properties": "Prime"
+    },
+    {
+      "model_id": "f59c4ab3-cb5e-4693-9827-dbb8c6e142d4",
+      "name": "Magik",
+      "collector_number": "048",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "db053cc1-58a4-41e4-b1d1-55a2a132c7c5",
+      "name": "Franken Castle",
+      "collector_number": "049",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "c9926202-3e36-4488-9db2-b2fc746baed4",
+      "name": "Nico Minoru",
+      "collector_number": "050",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "bec14393-b9b3-4039-b85d-f8de4deb1a16",
+      "name": "Wolverine, Lord of the Vampires",
+      "collector_number": "051",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "38f8ccab-ab72-48aa-b3de-539c59a238e5",
+      "name": "Tony Stark, Sorcerer Supreme",
+      "collector_number": "052",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "857d20f1-5c44-4f99-a434-c19b68e94a03",
+      "name": "Dr. Doom Supreme",
+      "collector_number": "053",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "1e660f3e-9efd-4caf-8bbc-eb1f41f04362",
+      "name": "Symbiote, Sorcerer Supreme",
+      "collector_number": "054",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "f8214bd0-9535-489a-aedd-818efd8750b6",
+      "name": "Dr. Strange, Sorcerer Supreme",
+      "collector_number": "055",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "7d17edaf-509a-4643-98b5-b186737f4902",
+      "name": "Jericho Drumm, Sorcerer Supreme",
+      "collector_number": "056",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "67da63f2-0292-4126-9096-c5de1422be78",
+      "name": "Loki, Sorcerer Supreme",
+      "collector_number": "057",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "86af2407-9af5-46a0-9e36-01a76d7492c5",
+      "name": "Bats",
+      "collector_number": "L016",
+      "unit_type": "Legacy Card",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "16a1078a-7133-46e4-9570-b799d8cdcad2",
+      "name": "Dr. Strange",
+      "collector_number": "L033",
+      "unit_type": "Legacy Card",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "22309dad-ef1b-4c7b-8c84-7f5dbb025387",
+      "name": "Princess Veranke",
+      "collector_number": "L036",
+      "unit_type": "Legacy Card",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "623c1d36-be96-4a09-9d2f-f85d556c0cda",
+      "name": "Ancient One",
+      "collector_number": "L037",
+      "unit_type": "Legacy Card",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "717f0649-dca3-4746-9bf4-41a916ef7636",
+      "name": "Shaman",
+      "collector_number": "L040",
+      "unit_type": "Legacy Card",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "ce995c9e-e74d-49b9-8e4f-1084a5fbf771",
+      "name": "Lord Mar-Vell",
+      "collector_number": "L041",
+      "unit_type": "Legacy Card",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "27a40175-b9b0-46f5-98f3-f57dbd10bc56",
+      "name": "Clea",
+      "collector_number": "L044",
+      "unit_type": "Legacy Card",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "f64bc703-088d-4593-bae6-ef3893b2cc75",
+      "name": "Imperial Hydra",
+      "collector_number": "L046",
+      "unit_type": "Legacy Card",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "dab0999d-e4aa-4dca-9354-8eed53984cd6",
+      "name": "Madame Hydra",
+      "collector_number": "L057",
+      "unit_type": "Legacy Card",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "f0548949-bf71-4d63-ad4e-fb26e4d03f3a",
+      "name": "Dormammu",
+      "collector_number": "LG001a",
+      "unit_type": "Legacy Card",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "2f772186-a5f9-47d6-8a2d-a704fb96bd60",
+      "name": "Tri-Sentinel",
+      "collector_number": "LG001b",
+      "unit_type": "Legacy Card",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "f285d1ef-13a3-4b17-89b1-56d521e6e000",
+      "name": "Eternity",
+      "collector_number": "LG023",
+      "unit_type": "Legacy Card",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "36e70cc8-2edf-4376-8763-34f6b81a5ca0",
+      "name": "Shield of the Seraphim",
+      "collector_number": "OS001",
+      "unit_type": "One Shot",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "a9216763-fe0d-4ac7-8534-17867a2819fc",
+      "name": "Crimson Bands of Cytorrak",
+      "collector_number": "OS002",
+      "unit_type": "One Shot",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "75ef7094-ea60-48fb-9454-1bfffcc0c321",
+      "name": "Flames of the Faltine",
+      "collector_number": "OS003",
+      "unit_type": "One Shot",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "28b583ce-3b3b-4b13-bf30-cb26d8d869e8",
+      "name": "Icy Tendrils of Ikthalon",
+      "collector_number": "OS004",
+      "unit_type": "One Shot",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "f6c640ce-9ca8-465a-b944-e5a82e2feeea",
+      "name": "Bolts of Balthakk",
+      "collector_number": "OS005",
+      "unit_type": "One Shot",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "9cf381b4-627d-47b9-8a48-ceeab0c77595",
+      "name": "Images of Ikonn",
+      "collector_number": "OS006",
+      "unit_type": "One Shot",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "4a4ea981-63a2-4b82-b048-63f919ff25e6",
+      "name": "Winds of Watoomb",
+      "collector_number": "OS007",
+      "unit_type": "One Shot",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "cdf6a9f6-d37d-423e-96b9-96dbef3aeccf",
+      "name": "Spectral Armor",
+      "collector_number": "OS008",
+      "unit_type": "One Shot",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "7affc7f5-8770-4111-91e6-456e3a3c386a",
+      "name": "Agamotto",
+      "collector_number": "p001",
+      "unit_type": "Attachment",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": "Unique | Sideline Active"
+    },
+    {
+      "model_id": "ea94e4a1-170a-4c0a-9b9b-5fe6b514a564",
+      "name": "Oshtur",
+      "collector_number": "p002",
+      "unit_type": "Attachment",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": "Unique | Sideline Active"
+    },
+    {
+      "model_id": "5fee3a24-6a1f-4a55-b272-2d6d7b03c520",
+      "name": "Hoggoth",
+      "collector_number": "p003",
+      "unit_type": "Attachment",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": "Unique | Sideline Active"
+    }
+  ],
+  "catalog_version": 1,
+  "game_id": "heroclix"
+}
