@@ -16,28 +16,20 @@
           "config_path": "games/heroclix/sets/thunderbolts/configs/v3.json"
         },
         {
-          "id": "fight-for-gotham-city",
-          "code": "FFGC",
-          "name": "DC HeroClix: Fight for Gotham City",
+          "id": "lantern-legacy",
+          "code": "LL",
+          "name": "DC HeroClix: Lantern Legacy",
           "current_config_version": 1,
-          "engine_version": 1,
-          "config_path": "games/heroclix/sets/fight-for-gotham-city/configs/v1.json"
+          "engine_version": 3,
+          "config_path": "games/heroclix/sets/lantern-legacy/configs/v1.json"
         },
         {
-          "id": "venom",
-          "code": "VE",
-          "name": "Marvel HeroClix: Venom",
+          "id": "x-men-97",
+          "code": "XM97",
+          "name": "Marvel HeroClix: X-Men '97",
           "current_config_version": 1,
-          "engine_version": 1,
-          "config_path": "games/heroclix/sets/venom/configs/v1.json"
-        },
-        {
-          "id": "strange-tales",
-          "code": "ST",
-          "name": "Marvel HeroClix: Strange Tales",
-          "current_config_version": 1,
-          "engine_version": 1,
-          "config_path": "games/heroclix/sets/strange-tales/configs/v1.json"
+          "engine_version": 3,
+          "config_path": "games/heroclix/sets/x-men-97/configs/v1.json"
         }
       ]
     }

@@ -16,6 +16,18 @@ games/
       thunderbolts/
         configs/
           v1.json
+          v2.json
+          v3.json
+        catalogs/
+          v1.json
+      lantern-legacy/
+        configs/
+          v1.json
+        catalogs/
+          v1.json
+      x-men-97/
+        configs/
+          v1.json
         catalogs/
           v1.json
 ```
@@ -58,9 +70,9 @@ Example:
 {
   "id": "thunderbolts",
   "code": "TB",
-  "current_config_version": 1,
-  "engine_version": 1,
-  "config_path": "games/heroclix/sets/thunderbolts/configs/v1.json"
+  "current_config_version": 3,
+  "engine_version": 3,
+  "config_path": "games/heroclix/sets/thunderbolts/configs/v3.json"
 }
 ```
 
@@ -109,6 +121,14 @@ The catalog is separate from distribution rules so card data and collation logic
 ## Config
 
 The set config describes how sealed product is collated.
+
+Current HeroClix sealed sets in the manifest are:
+
+- Thunderbolts — V3 / Engine G3
+- Lantern Legacy — V1 / Engine G3
+- X-Men '97 — V1 / Engine G3
+
+Detailed empirical assumptions for Lantern Legacy and X-Men '97 are recorded in `COLLATION_NOTES.md`.
 
 Thunderbolts V1 currently defines:
 

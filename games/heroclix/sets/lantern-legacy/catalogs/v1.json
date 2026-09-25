@@ -1,0 +1,1738 @@
+{
+  "schema_version": 1,
+  "set_id": "lantern-legacy",
+  "set_name": "Lantern Legacy",
+  "source": "set.xml",
+  "cards": [
+    {
+      "model_id": "4913e62f-0673-4a11-9c2c-0b51d2bfdff9",
+      "name": "Hal Jordan",
+      "collector_number": "001a",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "8c833dce-b556-4ee9-b3e9-5614e1439ef8",
+      "name": "Hal Jordan",
+      "collector_number": "001b",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "55a1b646-30c5-4962-9893-78c8c7ad19ec",
+      "name": "Hal Jordan",
+      "collector_number": "001c",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "2c35af72-dd01-4a35-9f01-64640ccd6b55",
+      "name": "Kyle Rayner",
+      "collector_number": "002a",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "6249d043-3411-4a0a-a29b-543a63b08769",
+      "name": "Kyle Rayner",
+      "collector_number": "002b",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "5b572076-b29c-4c6a-aca0-5d1be3459075",
+      "name": "Kyle Rayner",
+      "collector_number": "002c",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "2ecf9b8e-22a4-4778-91de-7f31b0783e9c",
+      "name": "Kyle Rayner",
+      "collector_number": "002d",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "90b52378-5edc-4e5a-9ead-3daa84562c70",
+      "name": "Kyle Rayner",
+      "collector_number": "002d.1",
+      "unit_type": "Alternate Card",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "4feb0263-a709-4fbb-9888-2e18580045ee",
+      "name": "Kyle Rayner",
+      "collector_number": "002e",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "0b6f04cd-bb61-4bd1-8b25-bcbf5b9c71b0",
+      "name": "Kyle Rayner",
+      "collector_number": "002e.1",
+      "unit_type": "Alternate Card",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "f3190269-2699-4483-a378-d02967cf76d6",
+      "name": "Batman",
+      "collector_number": "003",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "4be35061-5100-4716-8945-7f59fc6674d9",
+      "name": "Guardian",
+      "collector_number": "004a",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": "Generic"
+    },
+    {
+      "model_id": "d75e9d94-e816-479b-9c31-8444c92b72a7",
+      "name": "Ganthet",
+      "collector_number": "004b",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "acdd7637-bde5-42e4-8ba0-fd315fe2e6f5",
+      "name": "Red Lantern Recruit",
+      "collector_number": "005",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": "Generic"
+    },
+    {
+      "model_id": "f71e7418-1fae-4f1c-95ca-2cf07ae37011",
+      "name": "Sinestro Corps Recruit",
+      "collector_number": "006",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": "Generic"
+    },
+    {
+      "model_id": "4a06659e-2b6b-4f05-b96b-f6c3da9b960c",
+      "name": "Green Lantern Recruit",
+      "collector_number": "007",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": "Generic"
+    },
+    {
+      "model_id": "30512258-846a-4c6a-9bd4-a0edef72d9f3",
+      "name": "Black Lantern Reanimate",
+      "collector_number": "008",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": "Generic"
+    },
+    {
+      "model_id": "7dc09988-3c31-48a9-8c74-c91bce11724a",
+      "name": "Spectre",
+      "collector_number": "009",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "0641eb1c-acc5-41fe-bfa7-05854bd63ba8",
+      "name": "Dawg",
+      "collector_number": "010",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "86949f4b-1f4d-4fb9-b12c-b5f78df454cc",
+      "name": "Space Dolphin",
+      "collector_number": "011",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": "Generic"
+    },
+    {
+      "model_id": "b1e7247a-3f2c-490a-bace-99f4cdd2fa17",
+      "name": "Question",
+      "collector_number": "012",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "1059453e-8a2f-4772-9354-886edce405af",
+      "name": "Orange Lantern Construct",
+      "collector_number": "013",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": "Generic"
+    },
+    {
+      "model_id": "35cb656d-50e3-4a27-ba82-486121884467",
+      "name": "Atom",
+      "collector_number": "014",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "efe98719-2b1c-4aa8-b51e-4bb569533068",
+      "name": "Despotellis",
+      "collector_number": "015",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": "Generic"
+    },
+    {
+      "model_id": "401cedc9-1d63-4dbe-a947-62d2bf793913",
+      "name": "Hal Jordan",
+      "collector_number": "016a",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "c0fd64fe-c11e-4adb-aa0d-7ce8405ea07c",
+      "name": "Hal Jordan",
+      "collector_number": "016b",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "454517c6-77d6-4a01-a444-a8f2a916ecc5",
+      "name": "Kyle Rayner",
+      "collector_number": "017a",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "8886f2d3-9fc9-4661-b712-31ffaf67f437",
+      "name": "Kyle Rayner",
+      "collector_number": "017b",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "c334cae3-c852-41c5-86db-da9dfc186efa",
+      "name": "Batman",
+      "collector_number": "018a",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "a178d0ee-1c17-4852-be69-cf2546a9c8c4",
+      "name": "Batman",
+      "collector_number": "018b",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "2fe40957-d4ba-4936-adf5-dfa219791eeb",
+      "name": "Scar",
+      "collector_number": "019a",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "7a6e0605-31e0-496f-94b1-870fb704213a",
+      "name": "Scar",
+      "collector_number": "019a.1",
+      "unit_type": "Alternate Card",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "fe55a979-ec24-4a68-a142-84b2cda4b57b",
+      "name": "Sayd",
+      "collector_number": "019b",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "eda5bdb0-1937-453c-8543-299b7e3844d7",
+      "name": "Sayd",
+      "collector_number": "019b.1",
+      "unit_type": "Alternate Card",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "8edc36a6-0fc2-4fb0-b79c-88009946476a",
+      "name": "Dez Trevius",
+      "collector_number": "020a",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "0c0ab037-cf5b-4afb-842a-476f60be58aa",
+      "name": "Dez Trevius",
+      "collector_number": "020b",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "5f3f57d2-a364-4d0e-bfd0-e31cf6a7d418",
+      "name": "Soranik Natu",
+      "collector_number": "021a",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "9dc4e00b-20e9-430a-a67b-be3c9d831b7b",
+      "name": "Soranik Natu",
+      "collector_number": "021b",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "121d701e-8c20-45cf-ba80-b4d4c27b054a",
+      "name": "Jessica Cruz",
+      "collector_number": "022a",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "58c28990-6de7-4d44-a876-f0b9be9561e8",
+      "name": "Jessica Cruz",
+      "collector_number": "022b",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "1f70e99b-c69c-48a3-a4ad-a1cfa076f776",
+      "name": "Jessica Cruz",
+      "collector_number": "022b.1",
+      "unit_type": "Alternate Card",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "85cc96f6-b470-4a85-8294-485196835d9d",
+      "name": "Laira",
+      "collector_number": "023a",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "faf9899c-61aa-4168-8679-256e8b430e79",
+      "name": "Laira",
+      "collector_number": "023a.1",
+      "unit_type": "Alternate Card",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "fa0e529c-315b-48ea-95c1-8b2a70229272",
+      "name": "Laira",
+      "collector_number": "023b",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "28c0ae71-1926-465a-9da0-3e3c6571f2d6",
+      "name": "The Spectre",
+      "collector_number": "024a",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "afa09be4-e9d5-4480-b48e-346aa41ee886",
+      "name": "The Spectre",
+      "collector_number": "024b",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "b31d7103-73dc-469c-8802-f9ddc016f5ff",
+      "name": "Beast Boy",
+      "collector_number": "025a",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "8a6d0cfe-eda5-40a5-b8d3-8def8311f304",
+      "name": "Beast Boy",
+      "collector_number": "025b",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "5a9fbbf3-5648-4f87-9a74-62e50a0eb79c",
+      "name": "Sandman",
+      "collector_number": "026",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "385d221b-7957-43d9-a73c-04adc6fe9f55",
+      "name": "Hal Jordan",
+      "collector_number": "027",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "7676fd3d-c6fd-4045-9ac3-b1fb7e6095bb",
+      "name": "Kyle Rayner",
+      "collector_number": "028",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "b45c4478-a12f-40e5-ba0a-2f9bccb348d4",
+      "name": "Arkillo",
+      "collector_number": "029a",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "5a482c84-e150-45d3-8d3a-1cedf6f24af9",
+      "name": "Kilowog",
+      "collector_number": "029b",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": true,
+      "properties": "Prime"
+    },
+    {
+      "model_id": "91cdfc76-f6ae-4d03-aaa8-dc47f82b3f91",
+      "name": "G'nort",
+      "collector_number": "030",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "239cd36f-cbf9-4e86-8776-8e6e8a190115",
+      "name": "Lobo",
+      "collector_number": "031a",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "356bfed9-cdb5-4514-af71-4914956b911a",
+      "name": "Lobo",
+      "collector_number": "031b",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": true,
+      "properties": "Prime"
+    },
+    {
+      "model_id": "9f6651ff-175a-4db9-baca-c81652192072",
+      "name": "Jade",
+      "collector_number": "032",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "8d848702-ee07-4b2e-939c-dab080d4397e",
+      "name": "Lex Luthor",
+      "collector_number": "033",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "20926f7b-d821-4a8e-af59-8e2ba0951c92",
+      "name": "Rot Lop Fan",
+      "collector_number": "034",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "d4eae171-8493-487c-af1e-8e452d865a3e",
+      "name": "Alan Scott",
+      "collector_number": "035",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "8c0935c4-11fd-4a2b-ac27-870e2f1523ec",
+      "name": "Gambler",
+      "collector_number": "036",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "76655520-f620-44be-981b-844b2fca5708",
+      "name": "Guy Gardner",
+      "collector_number": "037a",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "685ee1d7-ab2b-49a2-b521-c69470b5a986",
+      "name": "Guy Gardner",
+      "collector_number": "037b",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": true,
+      "properties": "Prime | Sideline Active"
+    },
+    {
+      "model_id": "35cc2bb8-aaaf-43bb-9b9a-b6c711184d63",
+      "name": "Jo Mullein",
+      "collector_number": "038",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "634b4511-4de7-4b76-9df7-b745b8affa60",
+      "name": "Hal Jordan",
+      "collector_number": "039",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "ad8562a4-d009-4035-afb1-256078c1bd78",
+      "name": "Hal Jordan",
+      "collector_number": "039.1",
+      "unit_type": "Alternate Card",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "84cc7eb0-7b20-480b-8a47-fc37f95a4348",
+      "name": "Kyle Rayner",
+      "collector_number": "040",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "ca479913-71e5-442a-9c4a-1a46a71b1eab",
+      "name": "Sinestro",
+      "collector_number": "041a",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "acd8a06d-0232-46a4-999f-dbf434312415",
+      "name": "Sinestro",
+      "collector_number": "041b",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": true,
+      "properties": "Prime"
+    },
+    {
+      "model_id": "434465c9-fc0a-4d8e-b461-d7def4efdbfd",
+      "name": "Superboy Prime",
+      "collector_number": "042",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "8cb4b976-73ef-42ed-b840-aa2258b4d775",
+      "name": "John Stewart",
+      "collector_number": "043a",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "a06be5de-ed2d-42c9-93eb-7e836b6f1bca",
+      "name": "John Stewart",
+      "collector_number": "043b",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": true,
+      "properties": "Prime"
+    },
+    {
+      "model_id": "b0716c8e-54b0-4074-b224-59887848470f",
+      "name": "Animal Man",
+      "collector_number": "044",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": "Unique | Sideline Active"
+    },
+    {
+      "model_id": "5d37bd21-ca52-4978-93f1-d0644f332e29",
+      "name": "Avatar of Animal Man",
+      "collector_number": "044t",
+      "unit_type": "Attachment",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "c0d4bf49-c7dc-4eb8-aef0-23ec38d542f7",
+      "name": "Flash",
+      "collector_number": "045",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "2567aea6-a252-4717-beb4-ff767bfe96f6",
+      "name": "Sonar",
+      "collector_number": "046",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "9a558ff4-0036-4e25-bad4-81be6f3b594c",
+      "name": "Mongul",
+      "collector_number": "047",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "5a76578e-b9c6-4f6f-8f28-503858ac9ddf",
+      "name": "Alan Scott",
+      "collector_number": "048",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "6a62f0db-d800-49f4-923c-29e11f04d434",
+      "name": "Cyborg Superman",
+      "collector_number": "049",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "dfb00115-9027-4bff-bec5-0c6feb4c5efa",
+      "name": "Manhunter",
+      "collector_number": "049bt",
+      "unit_type": "Bystander",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "ecfc5c50-b54e-45ec-beb6-4707d29dc088",
+      "name": "Hourman",
+      "collector_number": "050",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "291e6904-8c00-4ba8-96f1-8938040dc03c",
+      "name": "Atrocitus & Dex-Starr",
+      "collector_number": "051",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "88b1b6b1-0049-4409-96cd-644a41b42ad5",
+      "name": "Dex-Starr",
+      "collector_number": "051bt",
+      "unit_type": "Bystander",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "29c09bf3-9e02-45ee-bc54-0f4186531932",
+      "name": "Larfleeze",
+      "collector_number": "052",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "11be8e37-3ad6-41ae-9f38-3da899fb21bd",
+      "name": "Batman",
+      "collector_number": "053",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "ecd598fc-02b6-409e-9416-2a522d02a95a",
+      "name": "Mogo",
+      "collector_number": "054",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "56999af4-c299-44de-9fe3-2e1fc0f21358",
+      "name": "Hal Jordan",
+      "collector_number": "055",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "a5bcf3c3-21df-4fd1-ae05-b8aea2116aa0",
+      "name": "The Atom",
+      "collector_number": "056",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "55f92092-861b-4af6-87a3-cdbc2a3d2521",
+      "name": "Guy Gardner",
+      "collector_number": "057",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "72f3577a-6dc8-4633-b00e-29e49188abd6",
+      "name": "Umbrax",
+      "collector_number": "058",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "a51a5d83-e7c2-4d42-93ab-d2b3694dbd57",
+      "name": "Black Hand",
+      "collector_number": "059",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "823166dc-57f8-43df-b284-aca74c2052f1",
+      "name": "Superman",
+      "collector_number": "060",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "f0b841b3-d27c-49ba-8c31-f5c6497ca5c0",
+      "name": "Superman",
+      "collector_number": "060.1",
+      "unit_type": "Alternate Card",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "43e919d7-53b2-41b8-9b11-c10ed723653c",
+      "name": "Guardian of the Universe",
+      "collector_number": "099",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": "Unique | Generic"
+    },
+    {
+      "model_id": "13f7c5dd-c221-46f0-ac94-70da3711c3b8",
+      "name": "Manhunter",
+      "collector_number": "099bt",
+      "unit_type": "Bystander",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "ce0a5c91-bf8d-489e-81d1-01ac15060501",
+      "name": "Hal Jordan",
+      "collector_number": "100",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "df5eea6b-a152-4704-a8c1-a01ae8f70809",
+      "name": "Kyle Rayner",
+      "collector_number": "101",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "e96be4f7-5122-4eaf-96d5-aa6754f1bec1",
+      "name": "Sinestro",
+      "collector_number": "L001",
+      "unit_type": "Legacy Card",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "be9fbec5-a4bb-41c7-aa68-4550cc8496d4",
+      "name": "Beast Boy",
+      "collector_number": "L014",
+      "unit_type": "Legacy Card",
+      "rarity": "Common",
+      "prime": false,
+      "properties": "Sideline Active"
+    },
+    {
+      "model_id": "f02b44d0-08a9-443d-ba04-c09110373b32",
+      "name": "The Weaponer of Qward",
+      "collector_number": "L025",
+      "unit_type": "Legacy Card",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "35ab26f4-2992-49ff-a746-3a083fceb2bb",
+      "name": "Sodam Yat",
+      "collector_number": "L026",
+      "unit_type": "Legacy Card",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "5ce32255-6632-40c0-96e9-509d91a3913b",
+      "name": "Miri Riam",
+      "collector_number": "L032",
+      "unit_type": "Legacy Card",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "109a994d-5ef5-4d49-bdc3-44b90c351d01",
+      "name": "Sister Sercy",
+      "collector_number": "L033",
+      "unit_type": "Legacy Card",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "73c48546-4f5a-4091-b42d-ce975d7a0988",
+      "name": "Starman",
+      "collector_number": "L034",
+      "unit_type": "Legacy Card",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": "Sideline Active"
+    },
+    {
+      "model_id": "e1db2ede-2474-4b9c-9f6a-7584fb0a0ab8",
+      "name": "Bleez",
+      "collector_number": "L036",
+      "unit_type": "Legacy Card",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "b0d1fb72-03d5-4b96-8de3-cf9a2262c7be",
+      "name": "Karu-Sil",
+      "collector_number": "L037",
+      "unit_type": "Legacy Card",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "dc757279-bdeb-4632-a810-193b167f3a34",
+      "name": "The Pack",
+      "collector_number": "L037bt",
+      "unit_type": "Bystander",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "aa553529-63dc-4af6-a87a-678c16846812",
+      "name": "Dex-Starr",
+      "collector_number": "L038",
+      "unit_type": "Legacy Card",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "1d695b35-de76-4546-ae24-6bfb191385f8",
+      "name": "Al Jhor Dan",
+      "collector_number": "L040",
+      "unit_type": "Legacy Card",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "188cd0e3-8fc5-4c8c-9afe-5ad3a831f139",
+      "name": "Parallax (Hal Jordan)",
+      "collector_number": "L041",
+      "unit_type": "Legacy Card",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "e985c1fe-455b-4247-a979-1fe4a31acbdc",
+      "name": "Green Lantern",
+      "collector_number": "L042",
+      "unit_type": "Legacy Card",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "c78277b7-859f-4c84-9e4a-70d624692cd4",
+      "name": "Power Ring",
+      "collector_number": "L044",
+      "unit_type": "Legacy Card",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "e2aa4e62-7805-4549-9563-95e5a1349350",
+      "name": "Dr. Mid-Nite",
+      "collector_number": "L048a",
+      "unit_type": "Legacy Card",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "52b8e45a-16a9-40cb-accb-5945e61f5ee1",
+      "name": "Hooty",
+      "collector_number": "L048abt",
+      "unit_type": "Bystander",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "e47875f8-4199-4e11-9245-36333a68fc64",
+      "name": "Firestorm",
+      "collector_number": "L048b",
+      "unit_type": "Legacy Card",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "948dd942-5f9a-4c12-a55a-299cc3c402da",
+      "name": "The Flash and Green Lantern",
+      "collector_number": "L048c",
+      "unit_type": "Legacy Card",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "7088e7fb-ce21-4460-8f7f-050815abdc83",
+      "name": "Fatality",
+      "collector_number": "L052",
+      "unit_type": "Legacy Card",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "7f05d504-8e54-4cb3-867a-a1d02b298c33",
+      "name": "Johnny Thunder",
+      "collector_number": "L053a",
+      "unit_type": "Legacy Card",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "e20739b6-3e32-46ce-9088-77dbde4eb0da",
+      "name": "Harley Quinn",
+      "collector_number": "L059a",
+      "unit_type": "Legacy Card",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "15dbe1a9-014a-449e-983c-b8cb143f9917",
+      "name": "Green Lantern, God of Light",
+      "collector_number": "L064",
+      "unit_type": "Legacy Card",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "b1355c6b-c10e-4fe5-bb1e-47886ad50e58",
+      "name": "Simon Baz",
+      "collector_number": "L108",
+      "unit_type": "Legacy Card",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "05c59c2d-2580-4cc6-b9db-ab86822b6ba2",
+      "name": "Power Battery (Green Lantern Corps)",
+      "collector_number": "LR100",
+      "unit_type": "Legacy Card",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": "Attached Not Equipped"
+    },
+    {
+      "model_id": "2a16b593-25e7-4103-863a-0777d660f4e4",
+      "name": "Power Battery (White Lantern Corps)",
+      "collector_number": "LR101",
+      "unit_type": "Legacy Card",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": "Attached Not Equipped"
+    },
+    {
+      "model_id": "feecf7be-20ab-4d4c-ab80-da18dd4b8275",
+      "name": "Power Battery (Red Lantern Corps)",
+      "collector_number": "LR102",
+      "unit_type": "Legacy Card",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": "Attached Not Equipped"
+    },
+    {
+      "model_id": "8f17a91e-d6c7-4cdf-86f8-95099ac42717",
+      "name": "Power Battery (Orange Lantern Corps)",
+      "collector_number": "LR103",
+      "unit_type": "Legacy Card",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": "Attached Not Equipped"
+    },
+    {
+      "model_id": "a9d59a4a-984e-450a-a416-2c7847f79e04",
+      "name": "Power Battery (Indigo Tribe)",
+      "collector_number": "LR104",
+      "unit_type": "Legacy Card",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": "Attached Not Equipped"
+    },
+    {
+      "model_id": "fef6cdce-8054-427a-b97e-a6e97e0ae945",
+      "name": "Power Battery (Sinestro Corps)",
+      "collector_number": "LR105",
+      "unit_type": "Legacy Card",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": "Attached Not Equipped"
+    },
+    {
+      "model_id": "4880d988-7e35-4f46-945f-5fb9cdb9b271",
+      "name": "Power Battery (Star Sapphires)",
+      "collector_number": "LR106",
+      "unit_type": "Legacy Card",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": "Attached Not Equipped"
+    },
+    {
+      "model_id": "25dfa5f0-9025-4e74-afb9-0efd60009b23",
+      "name": "Power Battery (Blue Lantern Corps)",
+      "collector_number": "LR107",
+      "unit_type": "Legacy Card",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": "Attached Not Equipped"
+    },
+    {
+      "model_id": "4f63db62-4fc3-4e31-a4c4-3843e8eacdb7",
+      "name": "Power Battery (Black Lantern Corps)",
+      "collector_number": "LR108",
+      "unit_type": "Legacy Card",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": "Attached Not Equipped"
+    },
+    {
+      "model_id": "60fa2006-2927-4f41-9887-e4ccef849bd9",
+      "name": "Yasmault",
+      "collector_number": "M001",
+      "unit_type": "Map",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "a3df8e6b-4e15-47d7-a09b-d3b2948bdb21",
+      "name": "Oa Plaza",
+      "collector_number": "M002",
+      "unit_type": "Map",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "41a2f69a-a207-4e6d-a076-4d20a76cb4df",
+      "name": "Okaara",
+      "collector_number": "M003",
+      "unit_type": "Map",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "3d2286f2-1482-4699-9ce7-3351ab03d619",
+      "name": "Zamaron",
+      "collector_number": "M004",
+      "unit_type": "Map",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "fb9bc7ca-914d-4b15-bfe7-ca91beeda8fa",
+      "name": "Charge the Ring",
+      "collector_number": "OS001",
+      "unit_type": "One Shot",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "96a8de81-356b-4d99-91bf-9d5dcafc0b1f",
+      "name": "Who's Fraggin' Next?!",
+      "collector_number": "OS002",
+      "unit_type": "One Shot",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "226c8a9d-5458-4a3c-a6a6-b9a61edc1f25",
+      "name": "Heroes of the Past",
+      "collector_number": "OS003",
+      "unit_type": "One Shot",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "0106955a-4766-48f0-bf8c-4620f53914ad",
+      "name": "Rage of the Red",
+      "collector_number": "OS004",
+      "unit_type": "One Shot",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "31d572b5-3f31-4219-a9de-55a1d52d94e7",
+      "name": "Avarice of the Orange",
+      "collector_number": "OS005",
+      "unit_type": "One Shot",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "7913f7ce-e391-4ce6-b188-0a27cc6580a8",
+      "name": "Terror of the Yellow",
+      "collector_number": "OS006",
+      "unit_type": "One Shot",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "e36c4eae-f348-4efb-abf9-990e10adf68e",
+      "name": "Resolve of the Green",
+      "collector_number": "OS007",
+      "unit_type": "One Shot",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "06ccabe9-09e2-43f2-94f4-f436f21b4584",
+      "name": "Rise of the Black",
+      "collector_number": "OS008",
+      "unit_type": "One Shot",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "5fa9f81d-e19a-4f9c-bbfa-6ca852e0cf4f",
+      "name": "Green Lantern Ring",
+      "collector_number": "s001",
+      "unit_type": "Equipment",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "8cccc6fc-0647-4361-b2a4-886b051b2970",
+      "name": "White Lantern Ring",
+      "collector_number": "s002",
+      "unit_type": "Equipment",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "c0cd6412-93fc-4942-8f92-e2f694573805",
+      "name": "Black Lantern Ring",
+      "collector_number": "s003",
+      "unit_type": "Equipment",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "36cedb2d-4537-4140-9fa3-487eebdac3d6",
+      "name": "Sinestro Corps Ring",
+      "collector_number": "s004",
+      "unit_type": "Equipment",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "51fc171f-bbf6-4171-b6a0-a8f903ad07f2",
+      "name": "Blue Lantern Ring",
+      "collector_number": "s005",
+      "unit_type": "Equipment",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "781a0079-1103-43e8-a145-59510f41b330",
+      "name": "Orange Lantern Ring",
+      "collector_number": "s006",
+      "unit_type": "Equipment",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "de84bbb3-2175-4071-82b5-b4a3cd0850db",
+      "name": "Red Lantern Ring",
+      "collector_number": "s007",
+      "unit_type": "Equipment",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "271b6500-5c4f-4862-a65d-0912deb7db05",
+      "name": "Indigo Tribe Ring",
+      "collector_number": "s008",
+      "unit_type": "Equipment",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "08c37b9d-e1f7-4838-a074-2587b805ffd5",
+      "name": "Star Sapphire Ring",
+      "collector_number": "s009",
+      "unit_type": "Equipment",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "e0748442-6700-4d09-ae2a-1734c3db9064",
+      "name": "Ultraviolet Lantern Ring",
+      "collector_number": "s010",
+      "unit_type": "Equipment",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "6842b03b-d340-4ada-be89-9f482ed11553",
+      "name": "Sound Wave",
+      "collector_number": "s011",
+      "unit_type": "Terrain Marker",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "2e332a8f-0ee5-45c3-9c9e-be0039ce40b0",
+      "name": "Sound Wave (Green)",
+      "collector_number": "s012",
+      "unit_type": "Bystander",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "b8de6bb4-f0a3-42c8-bb2d-05af7a61f141",
+      "name": "Sound Wave (Yellow)",
+      "collector_number": "s013",
+      "unit_type": "Bystander",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "a0627b8b-dcf9-44a2-a91d-7bb499960bc4",
+      "name": "Sound Wave (Red)",
+      "collector_number": "s014",
+      "unit_type": "Bystander",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "27ad71c5-1011-4068-87ca-a24e04b7fe46",
+      "name": "Sound Wave (Blue)",
+      "collector_number": "s015",
+      "unit_type": "Bystander",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "7d7d6863-58e2-4527-b0b9-2304aa95a862",
+      "name": "Sound Wave (Orange)",
+      "collector_number": "s016",
+      "unit_type": "Bystander",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "9599e7a8-7c23-49b1-b53e-0790e4421e9d",
+      "name": "Sound Wave (Indigo)",
+      "collector_number": "s017",
+      "unit_type": "Bystander",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "189b2c5c-5ccc-491e-b233-598c1e890c0f",
+      "name": "Sound Wave (Violet)",
+      "collector_number": "s018",
+      "unit_type": "Bystander",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "61789127-c6f0-4403-9775-38703c19551f",
+      "name": "Sound Wave (White)",
+      "collector_number": "s019",
+      "unit_type": "Bystander",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "3f87065a-fb73-43ec-8144-84ab41d69b7f",
+      "name": "Sound Wave (Ultraviolet)",
+      "collector_number": "s020",
+      "unit_type": "Bystander",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "37f4d811-1555-4155-a69e-0665169c8bba",
+      "name": "Chain",
+      "collector_number": "s021",
+      "unit_type": "Equipment",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "7143ab17-45c7-4798-a78e-5098597753d4",
+      "name": "Chain (Green)",
+      "collector_number": "s022",
+      "unit_type": "Bystander",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "1be53cf4-10a7-4712-b8e4-00adddb4b2ec",
+      "name": "Chain (Yellow)",
+      "collector_number": "s023",
+      "unit_type": "Bystander",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "0007e948-02ae-4af7-b032-6f47133c3b6e",
+      "name": "Chain (Red)",
+      "collector_number": "s024",
+      "unit_type": "Bystander",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "ea301bf8-467d-44b2-ab4d-da05942770c2",
+      "name": "Chain (Blue)",
+      "collector_number": "s025",
+      "unit_type": "Bystander",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "07aaf354-52b4-4a08-92ca-21367b413985",
+      "name": "Chain (Orange)",
+      "collector_number": "s026",
+      "unit_type": "Bystander",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "bde032cd-3332-4cc1-ae4e-4b6585aaf327",
+      "name": "Chain (Indigo)",
+      "collector_number": "s027",
+      "unit_type": "Bystander",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "216b48b4-8d3c-4fd0-9492-691b67dcf250",
+      "name": "Chain (Violet)",
+      "collector_number": "s028",
+      "unit_type": "Bystander",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "c5002b5d-8245-4281-93b6-572323f2b93f",
+      "name": "Chain (White)",
+      "collector_number": "s029",
+      "unit_type": "Bystander",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "5d08adf7-fd87-4ec4-85c4-eabf85e7f08a",
+      "name": "Chain (Ultraviolet)",
+      "collector_number": "s030",
+      "unit_type": "Bystander",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "1fd9de6c-ac83-439f-8c22-3b5cd40aa2d3",
+      "name": "God Killer Sword",
+      "collector_number": "s031",
+      "unit_type": "Equipment",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "48aa6ef5-29ca-431d-924b-9d83e5284b81",
+      "name": "Sword (Green)",
+      "collector_number": "s032",
+      "unit_type": "Bystander",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "34311e77-c3e3-4014-92df-af3dad9320e1",
+      "name": "Sword (Yellow)",
+      "collector_number": "s033",
+      "unit_type": "Bystander",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "56b08381-391f-4a6d-9134-951d26759788",
+      "name": "Sword (Red)",
+      "collector_number": "s034",
+      "unit_type": "Bystander",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "b16e682e-6e99-4380-8c11-9912e84d5f71",
+      "name": "Sword (Blue)",
+      "collector_number": "s035",
+      "unit_type": "Bystander",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "e47ad5b8-2e8c-4953-8d02-9ffe07f9dd5d",
+      "name": "Sword (Orange)",
+      "collector_number": "s036",
+      "unit_type": "Bystander",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "462137f1-a3e3-48a2-954b-e4ec6fe75c90",
+      "name": "Sword (Indigo)",
+      "collector_number": "s037",
+      "unit_type": "Bystander",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "203492d3-adaa-495c-84d3-ae87e538b190",
+      "name": "Sword (Violet)",
+      "collector_number": "s038",
+      "unit_type": "Bystander",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "e983ddb2-ba58-44ed-a0d7-d70e7560a402",
+      "name": "Sword (White)",
+      "collector_number": "s039",
+      "unit_type": "Bystander",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "42b5b5f6-a052-4c74-a1b4-d71b2d5403bd",
+      "name": "Sword (Ultraviolet)",
+      "collector_number": "s040",
+      "unit_type": "Bystander",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "6c66c6ae-ee5d-4a42-a4b9-55112429cc41",
+      "name": "Bat",
+      "collector_number": "s041",
+      "unit_type": "Bystander",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "f40272b5-88e2-4350-9967-b4d156b903de",
+      "name": "Bat (Green)",
+      "collector_number": "s042",
+      "unit_type": "Bystander",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "120a9cfa-3174-4209-8168-b1a76a1cabbc",
+      "name": "Bat (Yellow)",
+      "collector_number": "s043",
+      "unit_type": "Bystander",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "aa7a354b-84e4-4d0a-b7d8-b236f3fd6463",
+      "name": "Bat (Red)",
+      "collector_number": "s044",
+      "unit_type": "Bystander",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "20e102f6-7397-40c5-b4e4-2851b7869ce6",
+      "name": "Bat (Blue)",
+      "collector_number": "s045",
+      "unit_type": "Bystander",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "ba39efba-5b4f-4b85-96ea-aecf217b63c3",
+      "name": "Bat (Orange)",
+      "collector_number": "s046",
+      "unit_type": "Bystander",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "9a48c1f4-f46f-4636-8561-02e54a8d75d5",
+      "name": "Bat (Indigo)",
+      "collector_number": "s047",
+      "unit_type": "Bystander",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "84550e46-fff7-4eb3-ac93-af9ae6ccf646",
+      "name": "Bat (Violet)",
+      "collector_number": "s048",
+      "unit_type": "Bystander",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "16323e8e-c45f-41aa-86bc-5c40c2193405",
+      "name": "Bat (White)",
+      "collector_number": "s049",
+      "unit_type": "Bystander",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "bd5f9fd2-b417-4a94-a5e1-a99689920625",
+      "name": "Bat (Ultraviolet)",
+      "collector_number": "s050",
+      "unit_type": "Bystander",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    }
+  ],
+  "catalog_version": 1,
+  "game_id": "heroclix"
+}

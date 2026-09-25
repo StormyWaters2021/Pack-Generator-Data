@@ -1,0 +1,829 @@
+{
+  "schema_version": 1,
+  "set_id": "x-men-97",
+  "set_name": "X-Men '97",
+  "source": "set.xml",
+  "cards": [
+    {
+      "model_id": "76bd2908-57f7-45cb-aab0-313c9ff80df1",
+      "name": "Magneto",
+      "collector_number": "001",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "490ba3d4-aa69-469f-80dc-0d1f49e41666",
+      "name": "Jean Grey",
+      "collector_number": "002",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "4ab5749f-36c0-4bd9-8af6-ae8c86208d7b",
+      "name": "Cyclops",
+      "collector_number": "002bt",
+      "unit_type": "Bystander",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "b6e9d463-6036-44c8-a014-6bba79529bc0",
+      "name": "Cyclops",
+      "collector_number": "003",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "f0aa0e48-aec4-4d75-9531-53ba9c182571",
+      "name": "Leech",
+      "collector_number": "004",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "41b1f8b4-ccbe-47b4-a90d-2562f7a107e6",
+      "name": "Gambit",
+      "collector_number": "005",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "3340bf50-cdde-480b-af5f-66ef5ecf9272",
+      "name": "Jubilee",
+      "collector_number": "006a",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "e5092c02-cd5d-4e7e-9da8-def9aeda7436",
+      "name": "Jubilee",
+      "collector_number": "006b",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "2df67de5-9c15-4065-871e-d6fcd0ad50fa",
+      "name": "Beast",
+      "collector_number": "007",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "1bce4edc-edc1-49d8-a76c-9f3dee167888",
+      "name": "Prime Sentinel",
+      "collector_number": "008",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": "Generic | Expendable Goon"
+    },
+    {
+      "model_id": "d85df1ea-5c88-43b9-aa5a-2ef18fcb99ef",
+      "name": "Sentinel Technician",
+      "collector_number": "009",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": "Generic | Expendable Goon"
+    },
+    {
+      "model_id": "cc8bfdf9-f92e-4819-8840-e2a5bf385171",
+      "name": "Friend of Humanity",
+      "collector_number": "010",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": "Generic | Expendable Goon"
+    },
+    {
+      "model_id": "8dcc8abb-7e52-42d1-a061-e507bac692b8",
+      "name": "Wolverine",
+      "collector_number": "011",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "1100c76a-edc6-4dd1-a6d0-852bcc68ce47",
+      "name": "Wolverine",
+      "collector_number": "011b",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "c846356b-fb3f-4d64-bc7d-c710a8d898eb",
+      "name": "Rogue",
+      "collector_number": "012",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "d4740d96-941a-42e1-b5e1-c652710288d4",
+      "name": "Gambit",
+      "collector_number": "013",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "562c2cd5-fb94-4d07-8f2d-c9cb3b6afedd",
+      "name": "Dr. Valerie Cooper",
+      "collector_number": "014",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "29a72742-a8e0-444b-b208-0a5d06d48bc8",
+      "name": "CSA Officer",
+      "collector_number": "014bt",
+      "unit_type": "Bystander",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "e32cb9b1-cde5-4b65-bee3-e4bb7b3a94c0",
+      "name": "Magneto",
+      "collector_number": "015",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "b5fed9f5-cd9f-44f7-b912-183fe4785bfe",
+      "name": "Madelyne Pryor",
+      "collector_number": "016",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "434839c6-797d-4730-9105-641bb690d559",
+      "name": "Cable",
+      "collector_number": "016bt",
+      "unit_type": "Bystander",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "a6c5c246-1ac3-4818-9ef5-6574eda3cee7",
+      "name": "Wolverine",
+      "collector_number": "017",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "578407f4-ac66-433c-94eb-425b435ad17e",
+      "name": "Dino Man",
+      "collector_number": "018a",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": "Generic | Expendable Goon"
+    },
+    {
+      "model_id": "e0007f70-1e86-4b56-847c-1c960858e24c",
+      "name": "Dino Man",
+      "collector_number": "018b",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": "Generic | Expendable Goon"
+    },
+    {
+      "model_id": "4fd83094-bd22-4f21-bdf1-c0bf1f0a35f3",
+      "name": "Dino Man",
+      "collector_number": "018c",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": "Generic | Expendable Goon"
+    },
+    {
+      "model_id": "8c11f05a-b8a5-4b83-b654-bf758d6119ac",
+      "name": "Morph",
+      "collector_number": "019",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "e2021aa1-b3fc-4371-9251-ee76f6975508",
+      "name": "Storm",
+      "collector_number": "020",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "db1b4799-230c-47c5-a53a-609030424957",
+      "name": "Prime Sentinel",
+      "collector_number": "021",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": "Generic"
+    },
+    {
+      "model_id": "0b17aa60-46bf-412d-a4f9-5dd93c7d67dd",
+      "name": "Bolivar Trask",
+      "collector_number": "022a",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "eb027ed4-8ad7-4573-a751-362bf66b1a74",
+      "name": "Bolivar Trask",
+      "collector_number": "022b",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "82df7ecc-2b19-4178-8608-34cbca68c163",
+      "name": "Friend of Humanity",
+      "collector_number": "023",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": "Generic"
+    },
+    {
+      "model_id": "61b4dfdc-76a4-469b-8207-3e33846f4124",
+      "name": "Nightcrawler",
+      "collector_number": "024",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "87bea668-9794-488d-81da-7b8deb59509e",
+      "name": "Bastion",
+      "collector_number": "025",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "292d0557-ee73-4e10-b0ac-8a3090a41a5c",
+      "name": "Sunspot",
+      "collector_number": "026",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "b52d2116-deee-49c5-9140-ce4eba12d5f6",
+      "name": "Callisto",
+      "collector_number": "027",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "e69bfa29-e54d-4a75-9b27-7aa14f4e17a2",
+      "name": "Morlock",
+      "collector_number": "027bt",
+      "unit_type": "Bystander",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "7845c711-e110-42b4-b219-cae2955ccc3a",
+      "name": "Phoenix",
+      "collector_number": "028",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": "Unique | Sideline Active"
+    },
+    {
+      "model_id": "175d7560-c038-4008-97c3-c952d8998250",
+      "name": "Forge",
+      "collector_number": "029",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "9d2535ba-2d2e-4bb4-a9ea-584784647d6c",
+      "name": "The Adversary",
+      "collector_number": "029bt",
+      "unit_type": "Bystander",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "a4a68924-f3a4-4c10-b775-53cd3b4f2e1a",
+      "name": "Captain America",
+      "collector_number": "030",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "fa2b5d62-bbc4-476e-abc4-ce196ed7ff27",
+      "name": "Bishop",
+      "collector_number": "031a",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "5829b0f6-8cf7-4e74-b1f2-21bcc94afda4",
+      "name": "Bishop",
+      "collector_number": "031b",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": true,
+      "properties": "Prime"
+    },
+    {
+      "model_id": "11447cb6-b89b-45e1-aef1-d4a2319ce17a",
+      "name": "X-Cutioner",
+      "collector_number": "032",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "c979a37b-7910-43d6-8aea-56cdd3bfa764",
+      "name": "Wolverine",
+      "collector_number": "033",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "65baf249-aded-4e17-afd7-2aedaf9ed41b",
+      "name": "Magneto",
+      "collector_number": "034",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "66ab7bbf-2393-44b6-ae0b-bb2891afd74c",
+      "name": "Professor X",
+      "collector_number": "035",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "70de70d0-35dd-4997-b17e-08c7592d63ea",
+      "name": "Cyclops",
+      "collector_number": "036",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "e35fad70-cc01-4108-8e5e-2aeac4677309",
+      "name": "Cable",
+      "collector_number": "037a",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "9b2f3675-f547-4c87-a898-1469e18882c5",
+      "name": "Cable",
+      "collector_number": "037b",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": true,
+      "properties": "Prime"
+    },
+    {
+      "model_id": "e2c5090a-f20b-4750-9876-2bf43a50ea2f",
+      "name": "Marvel Girl",
+      "collector_number": "038",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "373462f7-7da5-42a6-a26e-18c23ab365f4",
+      "name": "Abscissa",
+      "collector_number": "039",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": "Unique | Sideline Active"
+    },
+    {
+      "model_id": "f1d7d260-7fae-406e-abd0-8589be09d1b8",
+      "name": "Storm",
+      "collector_number": "040",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "37aed296-a2d8-44a7-b08b-658334cc1c1c",
+      "name": "Rogue",
+      "collector_number": "041a",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "fe6fad72-06c2-4a1b-81c8-6e4b4ef47a87",
+      "name": "Rogue",
+      "collector_number": "041b",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": true,
+      "properties": "Prime"
+    },
+    {
+      "model_id": "9d28041f-4def-48f1-b23e-de2a7424827d",
+      "name": "Emma Frost",
+      "collector_number": "042a",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "a86c47be-a9fc-4b53-a43b-b157b19337a4",
+      "name": "Emma Frost",
+      "collector_number": "042b",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": true,
+      "properties": "Prime"
+    },
+    {
+      "model_id": "5e7ba442-7be3-4613-9a82-6c5456df0f37",
+      "name": "Magneto",
+      "collector_number": "043",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "a28f3945-e708-4c77-8aa2-a938dc522048",
+      "name": "Nightcrawler",
+      "collector_number": "044",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "19f1df7c-4ab8-4443-acc3-56fd63f57503",
+      "name": "Cyclops",
+      "collector_number": "045",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "78f29f7a-d7eb-4331-b7e8-a3b8317ddb43",
+      "name": "Jubilee",
+      "collector_number": "046",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "af9e40a6-20e0-4482-9650-f62df658f949",
+      "name": "Madelyne Pryor",
+      "collector_number": "047",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "568a81cf-ddfe-4242-9436-0866dac846de",
+      "name": "Phantasm",
+      "collector_number": "047bt",
+      "unit_type": "Bystander",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "fba5340b-22fa-4611-94a1-b447bd4e7f35",
+      "name": "Mister Sinister",
+      "collector_number": "048",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "0b5df659-7eae-488f-80d4-3bb3f6e8bf09",
+      "name": "Clone",
+      "collector_number": "048bt",
+      "unit_type": "Bystander",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "92fec41e-2458-49a6-a21a-8fddc3abf738",
+      "name": "Bastion",
+      "collector_number": "049",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "fe10ce6a-ee92-4ba3-82d0-c4e7cc0f52eb",
+      "name": "Beast",
+      "collector_number": "099",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "4cea37f5-6ad6-4881-bf74-4726cf2a3a6b",
+      "name": "Rogue",
+      "collector_number": "100",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "6423018e-954d-4ebb-8fdf-9740b8758fd7",
+      "name": "Gambit",
+      "collector_number": "101",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "ab70a371-ebbf-4601-9a37-a3c4eb810929",
+      "name": "Jean Grey",
+      "collector_number": "A002",
+      "unit_type": "Alternate Card",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "fab12c1a-cb68-4b75-bf6b-07ace4a357f9",
+      "name": "Cyclops",
+      "collector_number": "A003",
+      "unit_type": "Alternate Card",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "4a9bc573-a56a-46aa-88f1-8e1ec40e6f9a",
+      "name": "Jubilee",
+      "collector_number": "A006a",
+      "unit_type": "Alternate Card",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "c2b7d8e7-58b7-45b0-9bdf-78c93b80be9a",
+      "name": "Beast",
+      "collector_number": "A007",
+      "unit_type": "Alternate Card",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "b6a3fe41-692e-44e3-878d-ff924d157556",
+      "name": "Rogue",
+      "collector_number": "A012",
+      "unit_type": "Alternate Card",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "5d4c528c-a82b-4cb7-8eee-a4489fea93c5",
+      "name": "Gambit",
+      "collector_number": "A013",
+      "unit_type": "Alternate Card",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "e4bf0c35-60b5-4ffa-9f91-24de5744e723",
+      "name": "Morph",
+      "collector_number": "A019",
+      "unit_type": "Alternate Card",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "4d18238e-c45a-430d-870a-39f9fef3de64",
+      "name": "Storm",
+      "collector_number": "A020",
+      "unit_type": "Alternate Card",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "d178cafb-7e69-4ec8-94a9-e17bb13bc194",
+      "name": "Nightcrawler",
+      "collector_number": "A024",
+      "unit_type": "Alternate Card",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "8736ec45-4ca7-4f12-be10-66f24aa875f2",
+      "name": "Bishop",
+      "collector_number": "A031a",
+      "unit_type": "Alternate Card",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "85c060ab-6033-40e4-9780-20ca874ba4de",
+      "name": "Wolverine",
+      "collector_number": "A033",
+      "unit_type": "Alternate Card",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "eac3111f-4fbd-4ee3-8c46-54f28cdc1812",
+      "name": "Motendo",
+      "collector_number": "M001",
+      "unit_type": "Map",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "6fedde22-960d-4e83-9d6d-a86a25520f44",
+      "name": "Asteroid X",
+      "collector_number": "M002",
+      "unit_type": "Map",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "1cd91991-6624-4e0b-add0-d39821be7ac2",
+      "name": "Basketball Court",
+      "collector_number": "M003",
+      "unit_type": "Map",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "c816f47a-76ae-4d7f-8b2d-7a53756e051f",
+      "name": "X Mansion",
+      "collector_number": "M004",
+      "unit_type": "Map",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "c25c3285-a4b6-462d-b7ff-50b412316067",
+      "name": "Magneto Was Right",
+      "collector_number": "OS001",
+      "unit_type": "One Shot",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "f2bb7499-8858-4e2f-84a5-b6780e94a439",
+      "name": "Omega Level Threat Detected",
+      "collector_number": "OS002",
+      "unit_type": "One Shot",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "f1c21af6-62f2-4e3b-8dd9-e3d327cf2409",
+      "name": "Practiced Teamwork",
+      "collector_number": "OS003",
+      "unit_type": "One Shot",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "eabcc628-72bc-4af6-ad4c-4c7db1e23917",
+      "name": "Sinister Science",
+      "collector_number": "OS004",
+      "unit_type": "One Shot",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "712ba2cd-1376-4420-b1fd-976758fee4dc",
+      "name": "Bleachers",
+      "collector_number": "TM001",
+      "unit_type": "Terrain Marker",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "12707289-d44a-44d9-92ee-f071fd811473",
+      "name": "Steamroller",
+      "collector_number": "TM002",
+      "unit_type": "Terrain Marker",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "1a93dc0d-2464-434c-9014-5553939e6782",
+      "name": "Boxes & Barrels",
+      "collector_number": "TM003",
+      "unit_type": "Terrain Marker",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "c07fe65f-ee40-4b71-a06e-f17506964be2",
+      "name": "Forklift",
+      "collector_number": "TM004",
+      "unit_type": "Terrain Marker",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    }
+  ],
+  "catalog_version": 1,
+  "game_id": "heroclix"
+}

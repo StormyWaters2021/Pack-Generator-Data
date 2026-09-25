@@ -1,0 +1,271 @@
+{
+  "schema_version": 1,
+  "name": "DC HeroClix: Lantern Legacy",
+  "catalog_url": "../catalogs/v1.json",
+  "cache_seconds": 300,
+  "case": {
+    "bricks_per_case": 2
+  },
+  "brick": {
+    "boosters_per_brick": 12,
+    "base_profiles": [
+      {
+        "count": 10,
+        "slots": [
+          "common",
+          "common",
+          "uncommon",
+          "rare",
+          "lantern_construct"
+        ]
+      },
+      {
+        "count": 2,
+        "slots": [
+          "common",
+          "uncommon",
+          "uncommon",
+          "rare",
+          "lantern_construct"
+        ]
+      }
+    ],
+    "substitutions": [
+      {
+        "id": "character_sr_rare",
+        "from_category": "rare",
+        "to_category": "character_sr",
+        "pool": "character_sr",
+        "count": 3
+      },
+      {
+        "id": "standard_chase",
+        "from_category": "rare",
+        "to_category": "standard_chase",
+        "pool": "standard_chase",
+        "count": 1
+      },
+      {
+        "id": "ring",
+        "from_category": "lantern_construct",
+        "to_category": "ring",
+        "pool": "ring",
+        "count_distribution": [
+          {
+            "value": 3,
+            "weight": 1
+          },
+          {
+            "value": 4,
+            "weight": 1
+          },
+          {
+            "value": 5,
+            "weight": 2
+          }
+        ]
+      }
+    ],
+    "prime": {
+      "pool": "prime",
+      "count_distribution": [
+        {
+          "value": 0,
+          "weight": 1
+        },
+        {
+          "value": 1,
+          "weight": 1
+        }
+      ],
+      "target_categories_by_printed_rarity": {
+        "Rare": [
+          "rare"
+        ],
+        "Super Rare": [
+          "character_sr"
+        ]
+      },
+      "printed_rarity_distribution": [
+        {
+          "rarity": "Rare",
+          "weight": 5
+        },
+        {
+          "rarity": "Super Rare",
+          "weight": 1
+        }
+      ]
+    },
+    "extras": {
+      "assignment": "one_per_booster",
+      "groups": [
+        {
+          "pool": "booster_insert",
+          "count": 12,
+          "category": "booster_insert"
+        }
+      ],
+      "max_per_booster": 1
+    },
+    "toppers": {
+      "groups": [
+        {
+          "pool": "legacy_card",
+          "count": 1,
+          "category": "brick_topper"
+        }
+      ]
+    }
+  },
+  "pools": {
+    "common": {
+      "unit_types": [
+        "Character"
+      ],
+      "rarities": [
+        "Common"
+      ],
+      "prime": false
+    },
+    "uncommon": {
+      "unit_types": [
+        "Character"
+      ],
+      "rarities": [
+        "Uncommon"
+      ],
+      "prime": false
+    },
+    "rare": {
+      "unit_types": [
+        "Character"
+      ],
+      "rarities": [
+        "Rare"
+      ],
+      "prime": false
+    },
+    "character_sr": {
+      "unit_types": [
+        "Character"
+      ],
+      "rarities": [
+        "Super Rare"
+      ],
+      "prime": false
+    },
+    "prime": {
+      "unit_types": [
+        "Character"
+      ],
+      "prime": true
+    },
+    "standard_chase": {
+      "unit_types": [
+        "Character"
+      ],
+      "rarities": [
+        "Chase"
+      ],
+      "collector_numbers": [
+        "051",
+        "052",
+        "053",
+        "054",
+        "055",
+        "056",
+        "057",
+        "058",
+        "059",
+        "060"
+      ]
+    },
+    "ring": {
+      "unit_types": [
+        "Equipment"
+      ],
+      "rarities": [
+        "Super Rare"
+      ],
+      "collector_numbers": [
+        "s001",
+        "s002",
+        "s003",
+        "s004",
+        "s005",
+        "s006",
+        "s007",
+        "s008",
+        "s009",
+        "s010"
+      ]
+    },
+    "lantern_construct": {
+      "rarities": [
+        "Super Rare"
+      ],
+      "collector_regex": "^s0(?:1[1-9]|[2-4][0-9]|50)$"
+    },
+    "booster_insert": {
+      "any_of": [
+        {
+          "unit_types": [
+            "Legacy Card"
+          ]
+        },
+        {
+          "unit_types": [
+            "Alternate Card"
+          ]
+        },
+        {
+          "unit_types": [
+            "One Shot"
+          ]
+        }
+      ]
+    },
+    "legacy_card": {
+      "unit_types": [
+        "Legacy Card"
+      ]
+    }
+  },
+  "pool_policies": {
+    "common": {
+      "unique_scope": "none"
+    },
+    "uncommon": {
+      "unique_scope": "none"
+    },
+    "rare": {
+      "unique_scope": "none"
+    },
+    "character_sr": {
+      "unique_scope": "brick"
+    },
+    "prime": {
+      "unique_scope": "brick"
+    },
+    "standard_chase": {
+      "unique_scope": "brick"
+    },
+    "ring": {
+      "unique_scope": "brick"
+    },
+    "lantern_construct": {
+      "unique_scope": "brick"
+    },
+    "booster_insert": {
+      "unique_scope": "brick"
+    },
+    "legacy_card": {
+      "unique_scope": "brick"
+    }
+  },
+  "config_version": 1,
+  "engine_version": 3,
+  "game_id": "heroclix",
+  "set_id": "lantern-legacy"
+}
