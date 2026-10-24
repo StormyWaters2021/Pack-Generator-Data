@@ -1,0 +1,1268 @@
+{
+  "schema_version": 1,
+  "set_id": "dnd-series-one",
+  "set_name": "Dungeons & Dragons HeroClix: Series One",
+  "source": "HeroClix/Sets/Dungeons & Dragons Series One/set.xml",
+  "cards": [
+    {
+      "model_id": "0bbaad02-f382-4b04-a931-12748dcbc6a0",
+      "name": "Kobold Warrior",
+      "collector_number": "001",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "f1a03ff9-b41f-42cd-8695-eb55bff21e52",
+      "name": "Vampire Spawn",
+      "collector_number": "002",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "e0fd9030-c5b0-4f1a-a777-6758a585433b",
+      "name": "Skeleton",
+      "collector_number": "003",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "2af97204-8833-4b45-9179-54341e94c248",
+      "name": "Goblin Warrior",
+      "collector_number": "004",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "3871a70b-fae8-44f6-86fc-0ff7aca99568",
+      "name": "Zombie",
+      "collector_number": "005",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "ef3c1ae4-c27f-4df9-9165-c918b030dea9",
+      "name": "Dwarf Monk",
+      "collector_number": "006",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "a9b0dda3-46ef-4423-9e8e-af2cb1d607b9",
+      "name": "Elf Ranger",
+      "collector_number": "007",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "644ca71a-68f3-4e55-926b-63832f3d6d4d",
+      "name": "Drizzt",
+      "collector_number": "007b",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "006bedc5-a673-4561-bc21-20a2f1fe35ee",
+      "name": "GuenHwyvar",
+      "collector_number": "007bbt",
+      "unit_type": "Bystander",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "5e25ba3d-6b8a-475b-96c6-a481ca52ac1f",
+      "name": "Human Sorcerer",
+      "collector_number": "008",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "ffaf3134-614b-4eee-95a4-a670a0a11e28",
+      "name": "Gnome Cleric",
+      "collector_number": "009",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "7df9264d-65ad-49a7-9591-f0fcd0a107f1",
+      "name": "Cultist",
+      "collector_number": "010",
+      "unit_type": "Character",
+      "rarity": "Common",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "2f4074ca-fd88-43e5-bf97-a35d05b5ce83",
+      "name": "Lathander",
+      "collector_number": "011",
+      "unit_type": "Attachment",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": "Sideline Active"
+    },
+    {
+      "model_id": "844ce761-6bab-4245-bd4e-67a19b38057b",
+      "name": "Icewind Kobold",
+      "collector_number": "012",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "06cc2374-50e8-41e6-8ece-6c813b474c83",
+      "name": "Vampire",
+      "collector_number": "013",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "131b0a3c-e648-4cd0-a3a6-03bae498e60a",
+      "name": "Flaming Skeleton",
+      "collector_number": "014",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "bbd2b685-294d-421d-88ca-53cca70207de",
+      "name": "Goblin Boss",
+      "collector_number": "015",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "0c82ce35-ea96-4491-ab7e-d891205beb93",
+      "name": "Wight",
+      "collector_number": "016",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "da068750-68f2-4e1f-bcf9-07e5b1c6585b",
+      "name": "Dwarf Fighter",
+      "collector_number": "017",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "53499743-b7e4-4b77-bab6-e971a162ef3a",
+      "name": "Elf Gloomstalker Ranger",
+      "collector_number": "018",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "11faed82-2bea-43d2-bc46-83e8848dd058",
+      "name": "Human Necromancer Wizard",
+      "collector_number": "019",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "cb60d421-8720-4631-a655-60fce59aefd6",
+      "name": "Gnome Priest Acolyte",
+      "collector_number": "020",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "f1a64b6c-adf7-4e65-a216-4424be96c5e5",
+      "name": "Cult Fanatic",
+      "collector_number": "021",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "bce4be8c-333a-48c3-806e-0f99023863d1",
+      "name": "Mystra",
+      "collector_number": "022",
+      "unit_type": "Attachment",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": "Sideline Active"
+    },
+    {
+      "model_id": "80c112ff-57f5-4be1-8b22-b16373b789d4",
+      "name": "Red Wizard",
+      "collector_number": "023a",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "6e608b89-218f-4b86-8bac-efb1999741f5",
+      "name": "Szass Tam",
+      "collector_number": "023b",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": true,
+      "properties": "Prime"
+    },
+    {
+      "model_id": "3610c1cb-eaab-4501-9381-bddb50596c8d",
+      "name": "Barrel Mimic",
+      "collector_number": "024",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "48952653-612a-4ec5-a177-3be99ff66196",
+      "name": "Death Slaad",
+      "collector_number": "025",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "522e355c-99c0-4e8e-929a-410f05894635",
+      "name": "Bugbear Stalker",
+      "collector_number": "026",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "e2b8e054-94bb-481c-b13d-9c6ab4c36825",
+      "name": "Tiefling Rogue",
+      "collector_number": "027",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "a77fd1a7-10af-4e10-aba4-850eed6ae525",
+      "name": "Intellect Devourer",
+      "collector_number": "028",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "293e4f07-91ae-4ea1-adb1-ea0a8005bcf4",
+      "name": "Elf Wizard",
+      "collector_number": "029a",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "104f7bb6-aa24-4d23-a87c-6a443c5bc923",
+      "name": "Elf Archmage",
+      "collector_number": "029b",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": true,
+      "properties": "Prime"
+    },
+    {
+      "model_id": "c12ba4b4-6c37-4ce7-b342-d0d914b73922",
+      "name": "Halfling Warlock",
+      "collector_number": "030",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "817e8cd6-f9d2-4502-85ba-cb7538489c37",
+      "name": "Gnome Wizard",
+      "collector_number": "031a",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "a3ed2a6c-eea4-4f15-8e7c-e4f2e88407f1",
+      "name": "Bigby",
+      "collector_number": "031b",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": true,
+      "properties": "Prime"
+    },
+    {
+      "model_id": "80afd7f9-f597-4989-ad0b-4bf2b2b43acb",
+      "name": "Bigby's Hand",
+      "collector_number": "031bbt",
+      "unit_type": "Bystander",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "1a7fc41a-618b-427f-8dac-7cf319d2d9f3",
+      "name": "Human Cleric",
+      "collector_number": "032",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "dbecaf7c-2b39-453b-8361-db3e39528102",
+      "name": "Half-Elf Rogue",
+      "collector_number": "033",
+      "unit_type": "Character",
+      "rarity": "Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "9f02d267-be3b-4093-b62a-97eb023d3f1d",
+      "name": "Dragonborn Paladin",
+      "collector_number": "034",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "84a257b7-61b4-4e21-80c8-9a0ce9869da6",
+      "name": "Orc Druid",
+      "collector_number": "035",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "6874524e-2c47-48d5-8229-ae1e9c54a29d",
+      "name": "Minsc & Boo",
+      "collector_number": "036",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "62c776ab-bf07-40f1-aa37-7440125d6e00",
+      "name": "Boo",
+      "collector_number": "036bt",
+      "unit_type": "Bystander",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "3b60a410-39db-457c-a161-9ca682224730",
+      "name": "Human Paladin",
+      "collector_number": "037a",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "8681eb05-cf94-49ee-a8d3-37d565f29496",
+      "name": "Oathbreaker",
+      "collector_number": "037b",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": true,
+      "properties": "Prime"
+    },
+    {
+      "model_id": "f6805dc0-7e90-458c-9fb5-994997d9a743",
+      "name": "Goblin Hexer",
+      "collector_number": "038",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "0e346a19-2676-455b-996f-748251fd9e20",
+      "name": "Strahd",
+      "collector_number": "039",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "be74e267-47cd-4ced-a7fb-b60e9786f103",
+      "name": "Bat",
+      "collector_number": "039bta",
+      "unit_type": "Bystander",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "a358df13-6100-4310-bc6b-3241ff6231df",
+      "name": "Wolf",
+      "collector_number": "039btb",
+      "unit_type": "Bystander",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "cb13204f-200d-452e-a6b5-bec197a26d12",
+      "name": "Mind Flayer",
+      "collector_number": "040",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "1733c42e-08fb-4d92-9b53-3507968b5aa3",
+      "name": "Dwarf Battlemaster",
+      "collector_number": "041",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "6169de70-e378-4272-bceb-c4daeb8a0c2f",
+      "name": "Necromancer",
+      "collector_number": "042",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "f5d2bd01-fc0f-49c1-b87e-75658b140438",
+      "name": "Orc Fighter",
+      "collector_number": "043a",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "cf9245eb-5821-4637-8ffb-fbf7caee8384",
+      "name": "Orc Berserker",
+      "collector_number": "043b",
+      "unit_type": "Character",
+      "rarity": "Super Rare",
+      "prime": true,
+      "properties": "Prime"
+    },
+    {
+      "model_id": "3a5c01c7-e6cb-4c49-a06b-ebfadc4b7cb6",
+      "name": "Troll",
+      "collector_number": "044",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "c57feb68-3c2e-4f66-b672-c048b2f32025",
+      "name": "Troll Limb",
+      "collector_number": "044bt",
+      "unit_type": "Bystander",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "89f1f74d-7f82-4792-927c-e900126da766",
+      "name": "Ettin",
+      "collector_number": "045",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "0e04f124-2433-42c6-a57f-4ef4d9db0a1a",
+      "name": "Umber Hulk",
+      "collector_number": "046",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "4fa0a666-c34c-48c1-aafa-98ec622af4e4",
+      "name": "Ogre Zombie",
+      "collector_number": "047",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "4f6cc533-df4f-4bfe-ab05-7d2aa4708548",
+      "name": "Minotaur Skeleton",
+      "collector_number": "048",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "3c6863ce-be12-4e5b-8e2d-9359b2367891",
+      "name": "Iron Golem",
+      "collector_number": "049",
+      "unit_type": "Character",
+      "rarity": "Uncommon",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "b0e3e5a8-4c42-474a-9351-d84c87eb8b03",
+      "name": "Red Dragon Wyrmling",
+      "collector_number": "050",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "80028008-3841-459a-b3c8-45587dc47595",
+      "name": "Black Dragon Wyrmling",
+      "collector_number": "051",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "de79cbb8-8124-47d4-acd6-32406cdd3677",
+      "name": "Blue Dragon Wyrmling",
+      "collector_number": "052",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "13075497-13e1-4b97-a7a3-d12eb2fa6d7d",
+      "name": "Green Dragon Wyrmling",
+      "collector_number": "053",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "a7293ca9-8c05-4b75-be51-a03a81a8c1b3",
+      "name": "White Dragon Wyrmling",
+      "collector_number": "054",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "f7292560-2a91-45e0-87d8-9fece7f03d22",
+      "name": "Death Tyrant",
+      "collector_number": "055",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "edf97365-508c-46fe-addc-944d8df2ab24",
+      "name": "Drider",
+      "collector_number": "056",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "8b70f664-023b-40cc-9420-82409a7d54f0",
+      "name": "Giant Mimic (Keg)",
+      "collector_number": "057",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": "Unique"
+    },
+    {
+      "model_id": "c67efeb0-9785-4e5e-b7e0-ac7415957a64",
+      "name": "Gray Render",
+      "collector_number": "058",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "21c53251-6c67-4700-b2ab-a5ca421fd4a0",
+      "name": "Xanathar",
+      "collector_number": "059",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": "Unique | Sideline Active"
+    },
+    {
+      "model_id": "98da97dc-7f46-4892-b60b-64831834a56f",
+      "name": "Giant Space Hamster",
+      "collector_number": "060",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "56a6af9e-0ccc-4113-a567-c5c22f19018c",
+      "name": "Bulette",
+      "collector_number": "061",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "92e5ad15-0d06-40ae-9426-d31fa2ccf349",
+      "name": "Human Paladin",
+      "collector_number": "099",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "830db8c4-d42c-4be7-b183-fa9f9b603ab9",
+      "name": "Elf Wizard",
+      "collector_number": "100",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "288d17bc-9f8d-402d-a76b-d9dc2986c075",
+      "name": "Orc Fighter",
+      "collector_number": "101",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "b2b14b20-1c4d-4600-927f-9dd587e84554",
+      "name": "Giant Space Hamster",
+      "collector_number": "GSH-001",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "b64ab9ba-d814-4132-adc4-77df7a006d5b",
+      "name": "Barrel",
+      "collector_number": "GSH-t001",
+      "unit_type": "Terrain Marker",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "f75ebbaa-7852-4bc3-b3e6-d2e437bcc03e",
+      "name": "Two Barrels",
+      "collector_number": "GSH-t002",
+      "unit_type": "Terrain Marker",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "b220f9e7-8147-4d7b-90ba-2f4ea2680364",
+      "name": "Three Barrels",
+      "collector_number": "GSH-t003",
+      "unit_type": "Terrain Marker",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "de2fd77d-f199-47d6-8788-4e6643b09bac",
+      "name": "The Lab",
+      "collector_number": "M001",
+      "unit_type": "Map",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "9c137f55-29bf-455c-b259-b679192b7246",
+      "name": "The Castle Ruins",
+      "collector_number": "M002",
+      "unit_type": "Map",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "74f05c05-de25-4cbc-a09c-9dcaffadadf9",
+      "name": "Base Camp",
+      "collector_number": "M003",
+      "unit_type": "Map",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "902bac91-224e-4024-818e-f027806a5a8a",
+      "name": "Tavern",
+      "collector_number": "M004",
+      "unit_type": "Map",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "d0d61013-4302-43ba-84dd-a235773c6ff1",
+      "name": "Scroll of Aid",
+      "collector_number": "OS001",
+      "unit_type": "One Shot",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "7362e7c5-f629-496f-a435-4d178f9bec50",
+      "name": "Scroll of Blade Ward",
+      "collector_number": "OS002",
+      "unit_type": "One Shot",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "65a88a10-1bf5-4334-88d3-9d7bc05cb44c",
+      "name": "Scroll of Burning Hands",
+      "collector_number": "OS003",
+      "unit_type": "One Shot",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "e62c8f2a-0f76-47f1-bd62-17da6be33dcc",
+      "name": "Scroll of Cure Wounds",
+      "collector_number": "OS004",
+      "unit_type": "One Shot",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "b70e2af6-28df-495f-91f2-d3f60a986e83",
+      "name": "Scroll of Disintegrate",
+      "collector_number": "OS005",
+      "unit_type": "One Shot",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "257cd426-0e2f-49bd-bb9c-bab67b3232a8",
+      "name": "Scroll of Guidance",
+      "collector_number": "OS006",
+      "unit_type": "One Shot",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "87b6063d-26bd-4e97-89ba-b1a8a9f19a9a",
+      "name": "Scroll of Etherealness",
+      "collector_number": "OS007",
+      "unit_type": "One Shot",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "0c7b123b-ee00-4296-9ae1-6c448689e7c3",
+      "name": "Scroll of Misty Step",
+      "collector_number": "OS008",
+      "unit_type": "One Shot",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "c819cd58-b171-4077-8704-ad22cea95206",
+      "name": "Scroll of Resistance",
+      "collector_number": "OS009",
+      "unit_type": "One Shot",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "41e7babc-ace9-49c6-b0ee-170eb8c43aa8",
+      "name": "Scroll of Revivify",
+      "collector_number": "OS010",
+      "unit_type": "One Shot",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "a0429c7d-2b82-4fcc-8c20-4647ccaaabe8",
+      "name": "Scroll of Shield",
+      "collector_number": "OS011",
+      "unit_type": "One Shot",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "9cc8fc20-3cca-478d-809c-56c8dc935945",
+      "name": "Scroll of Shocking Grasp",
+      "collector_number": "OS012",
+      "unit_type": "One Shot",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "e29046f2-e014-40ed-86e2-053eb2b62406",
+      "name": "Scroll of Sleep",
+      "collector_number": "OS013",
+      "unit_type": "One Shot",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "5eadc5b9-8549-4541-93ca-d98f1c0e7514",
+      "name": "Scroll of Spider Climb",
+      "collector_number": "OS014",
+      "unit_type": "One Shot",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "659d3325-ba00-41a5-9159-b032d37085c4",
+      "name": "Scroll of Magic Missile",
+      "collector_number": "OS015",
+      "unit_type": "One Shot",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "6a196647-eb90-497b-bf76-512f92eb5179",
+      "name": "Short Rest",
+      "collector_number": "OS016",
+      "unit_type": "One Shot",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "81078b33-e3f8-4ca2-a29d-34f7a4ecb6e4",
+      "name": "Long Rest",
+      "collector_number": "OS017",
+      "unit_type": "One Shot",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "a12684a3-e8e2-4ff3-ba74-886ee32352e1",
+      "name": "Scroll of Wish",
+      "collector_number": "OS018",
+      "unit_type": "One Shot",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "636800f7-fd6b-4db0-a5be-f906eb24d636",
+      "name": "Scroll of Web",
+      "collector_number": "OS019",
+      "unit_type": "One Shot",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "30f9506a-8f84-4ace-98d3-03d7ed90a3a8",
+      "name": "Scroll of Fireball",
+      "collector_number": "OS020",
+      "unit_type": "One Shot",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "20f67b1c-77d8-45a6-b2ab-d544f64005ed",
+      "name": "Scroll of Lightning Bolt",
+      "collector_number": "OS021",
+      "unit_type": "One Shot",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "9f614b7d-b013-44b7-9a25-e259d7a07662",
+      "name": "Scroll of Counterspell",
+      "collector_number": "OS022",
+      "unit_type": "One Shot",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "828c723a-ff66-4b8a-9e53-2fa299926d40",
+      "name": "Armor of Invulnerability",
+      "collector_number": "s001",
+      "unit_type": "Equipment",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "53b7abbd-ec5b-4ec4-b2c0-34f07dedefda",
+      "name": "Boots of Speed",
+      "collector_number": "s002",
+      "unit_type": "Equipment",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "cd72866d-3539-4b30-a163-394101f182fc",
+      "name": "Bracers of Defense",
+      "collector_number": "s003",
+      "unit_type": "Equipment",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "54c04a97-e47b-47fa-9f35-91c0db9d76e7",
+      "name": "Cape of Billowing",
+      "collector_number": "s004",
+      "unit_type": "Equipment",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "666d2886-ae89-4bc2-8f14-3d9e3d322fe1",
+      "name": "Cloak of Elvenkind",
+      "collector_number": "s005",
+      "unit_type": "Equipment",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "b4f99859-d1a9-46b4-8234-25bfbca57585",
+      "name": "Decanter of Endless Water",
+      "collector_number": "s006",
+      "unit_type": "Equipment",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "1eea6a09-e4d6-4559-8c73-89fef5850b59",
+      "name": "Defender",
+      "collector_number": "s007",
+      "unit_type": "Equipment",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "e0b1ac91-d19f-470e-8d18-be708f8a1425",
+      "name": "Eversmoking Bottle",
+      "collector_number": "s008",
+      "unit_type": "Equipment",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "02a36c2f-1502-4bed-80da-ff867f98f43d",
+      "name": "Flame Tongue",
+      "collector_number": "s009",
+      "unit_type": "Equipment",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "10398c49-8a3b-46a8-a5c0-0433a119fa1e",
+      "name": "Frost Brand",
+      "collector_number": "s010",
+      "unit_type": "Equipment",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "3d99f7af-4acb-4bdc-9263-5900f1e7c309",
+      "name": "Gauntlets of Ogre Power",
+      "collector_number": "s011",
+      "unit_type": "Equipment",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "da7e1a70-9e12-4a74-a781-d0066918cf05",
+      "name": "Hat of Disguise",
+      "collector_number": "s012",
+      "unit_type": "Equipment",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "08ed7291-01d7-4996-8a5d-d66d0236093b",
+      "name": "Holy Avenger",
+      "collector_number": "s013",
+      "unit_type": "Equipment",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "55ca365f-6a02-4a9b-8d90-c3cf89ffc063",
+      "name": "Immovable Rod",
+      "collector_number": "s014",
+      "unit_type": "Equipment",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "9f995bcb-d24b-4e95-80ab-3cafd90a2f25",
+      "name": "Mantle of Spell Resistance",
+      "collector_number": "s015",
+      "unit_type": "Equipment",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "3da058eb-e1d8-446c-9390-cbddaa3feafa",
+      "name": "Moon-Touched Sword",
+      "collector_number": "s016",
+      "unit_type": "Equipment",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "d001c9fe-40e1-48e8-90dd-0a65e2fb87a2",
+      "name": "Periapt of Health",
+      "collector_number": "s017",
+      "unit_type": "Equipment",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "2c332cc5-f697-4fc0-b8c0-4502e7d06760",
+      "name": "Ring of Invisibility",
+      "collector_number": "s018",
+      "unit_type": "Equipment",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "635d63d1-9f4a-459e-ac9c-785386e44362",
+      "name": "Ring of the Ram",
+      "collector_number": "s019",
+      "unit_type": "Equipment",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "1fe77a96-d12c-4195-a4e8-d3711125dbcd",
+      "name": "Scimitar of Speed",
+      "collector_number": "s020",
+      "unit_type": "Equipment",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "dc8ea8ba-5577-4f26-a63c-5da506eac148",
+      "name": "Sending Stones",
+      "collector_number": "s021",
+      "unit_type": "Equipment",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "7508beb8-7ea9-43f6-9690-2aa6ba9da091",
+      "name": "Sword of Life Stealing",
+      "collector_number": "s022",
+      "unit_type": "Equipment",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "358dd2d8-7a9f-4133-b248-5ccd57d32b4a",
+      "name": "Wand of Magic Missiles",
+      "collector_number": "s023",
+      "unit_type": "Equipment",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "360e484a-9cf4-4a3e-a705-37a721531780",
+      "name": "Winged Boots",
+      "collector_number": "s024",
+      "unit_type": "Equipment",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "932f0ac1-c5ef-4808-8978-a3e53d0c5dcc",
+      "name": "Tesla Coils",
+      "collector_number": "t001",
+      "unit_type": "Terrain Marker",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "dab62ddb-6894-4ffb-bdf2-df41d828e6c3",
+      "name": "Operating Table",
+      "collector_number": "t002",
+      "unit_type": "Terrain Marker",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "a63879dc-9c80-460f-999f-a8491594019c",
+      "name": "Sludge",
+      "collector_number": "t003",
+      "unit_type": "Terrain Marker",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "0f6e8fbc-1dd0-4615-b775-7556de21971f",
+      "name": "Barrels",
+      "collector_number": "t004",
+      "unit_type": "Terrain Marker",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "457df12b-87a3-4e0d-bf53-5b0ca5c6d8ae",
+      "name": "Covered Well",
+      "collector_number": "t005",
+      "unit_type": "Terrain Marker",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "9a91d238-b64a-4bc5-b031-054102696bc2",
+      "name": "Crumbling Stairs",
+      "collector_number": "t006",
+      "unit_type": "Terrain Marker",
+      "rarity": "",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "71b86cbe-a1b3-4170-8911-c3632e3753ab",
+      "name": "Elf Wizard",
+      "collector_number": "TT-001",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "2a682cb8-7f17-4b7e-81f5-28b85c330c15",
+      "name": "Dwarf Fighter",
+      "collector_number": "TT-002",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "7dd721a4-dc89-4885-ad75-2719969aa0fb",
+      "name": "Gnome Bard",
+      "collector_number": "TT-003",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    },
+    {
+      "model_id": "fd38da37-a599-4acf-8d86-cbee2733e439",
+      "name": "Mimic (Keg)",
+      "collector_number": "TT-004",
+      "unit_type": "Character",
+      "rarity": "Chase",
+      "prime": false,
+      "properties": ""
+    }
+  ]
+}

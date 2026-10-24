@@ -1,0 +1,236 @@
+{
+  "schema_version": 1,
+  "config_version": 1,
+  "engine_version": 3,
+  "game_id": "heroclix",
+  "set_id": "dnd-series-one",
+  "name": "Dungeons & Dragons HeroClix: Series One",
+  "catalog_url": "../catalogs/v1.json",
+  "cache_seconds": 300,
+  "case": {
+    "bricks_per_case": 2
+  },
+  "brick": {
+    "boosters_per_brick": 8,
+    "booster_uniqueness": true,
+    "base_profiles": [
+      {
+        "count": 8,
+        "slots": [
+          "common",
+          "uncommon",
+          "rare",
+          "oversized"
+        ]
+      }
+    ],
+    "substitutions": [
+      {
+        "id": "standard_super_rares",
+        "from_category": "rare",
+        "to_category": "sr",
+        "pool": "sr",
+        "count_distribution": [
+          {
+            "value": 2,
+            "weight": 1
+          },
+          {
+            "value": 3,
+            "weight": 1
+          }
+        ]
+      },
+      {
+        "id": "oversized_chase",
+        "from_category": "oversized",
+        "to_category": "oversized_chase",
+        "pool": "oversized_chase",
+        "count": 1
+      }
+    ],
+    "prime": {
+      "pool": "prime",
+      "count_distribution": [
+        {
+          "value": 0,
+          "weight": 1
+        },
+        {
+          "value": 1,
+          "weight": 5
+        }
+      ],
+      "printed_rarity_distribution": [
+        {
+          "rarity": "Rare",
+          "weight": 3
+        },
+        {
+          "rarity": "Super Rare",
+          "weight": 2
+        }
+      ],
+      "target_categories_by_printed_rarity": {
+        "Rare": [
+          "rare"
+        ],
+        "Super Rare": [
+          "sr"
+        ]
+      }
+    },
+    "toppers": {
+      "groups": [
+        {
+          "pool": "foil_topper",
+          "count": 1,
+          "category": "foil_brick_topper"
+        }
+      ]
+    },
+    "extras": {
+      "assignment": "each_booster_per_group",
+      "groups": [
+        {
+          "pool": "one_shot",
+          "count": 8,
+          "category": "spell_one_shot"
+        },
+        {
+          "pool": "equipment",
+          "count": 8,
+          "category": "equipment"
+        }
+      ]
+    }
+  },
+  "pools": {
+    "common": {
+      "unit_types": [
+        "Character"
+      ],
+      "rarities": [
+        "Common"
+      ]
+    },
+    "uncommon": {
+      "unit_types": [
+        "Character"
+      ],
+      "rarities": [
+        "Uncommon"
+      ],
+      "collector_regex": "^0(?:1[2-9]|20|21)$"
+    },
+    "rare": {
+      "unit_types": [
+        "Character"
+      ],
+      "rarities": [
+        "Rare"
+      ],
+      "prime": false
+    },
+    "sr": {
+      "unit_types": [
+        "Character"
+      ],
+      "rarities": [
+        "Super Rare"
+      ],
+      "prime": false
+    },
+    "prime": {
+      "unit_types": [
+        "Character"
+      ],
+      "prime": true
+    },
+    "oversized": {
+      "unit_types": [
+        "Character"
+      ],
+      "rarities": [
+        "Uncommon"
+      ],
+      "collector_numbers": [
+        "044",
+        "045",
+        "046",
+        "047",
+        "048",
+        "049"
+      ]
+    },
+    "oversized_chase": {
+      "unit_types": [
+        "Character"
+      ],
+      "rarities": [
+        "Chase"
+      ],
+      "collector_numbers": [
+        "050",
+        "051",
+        "052",
+        "053",
+        "054",
+        "055",
+        "056",
+        "057",
+        "058",
+        "059",
+        "060",
+        "061"
+      ]
+    },
+    "equipment": {
+      "unit_types": [
+        "Equipment"
+      ]
+    },
+    "one_shot": {
+      "unit_types": [
+        "One Shot"
+      ]
+    },
+    "foil_topper": {
+      "unit_types": [
+        "One Shot"
+      ]
+    }
+  },
+  "pool_policies": {
+    "common": {
+      "unique_scope": "none"
+    },
+    "uncommon": {
+      "unique_scope": "none"
+    },
+    "rare": {
+      "unique_scope": "none"
+    },
+    "sr": {
+      "unique_scope": "brick"
+    },
+    "prime": {
+      "unique_scope": "brick"
+    },
+    "oversized": {
+      "unique_scope": "none"
+    },
+    "oversized_chase": {
+      "unique_scope": "brick"
+    },
+    "equipment": {
+      "unique_scope": "none"
+    },
+    "one_shot": {
+      "unique_scope": "none"
+    },
+    "foil_topper": {
+      "unique_scope": "none"
+    }
+  }
+}

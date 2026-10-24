@@ -54,6 +54,14 @@
           "current_config_version": 1,
           "engine_version": 3,
           "config_path": "games/heroclix/sets/x-men-97/configs/v1.json"
+        },
+        {
+          "id": "dnd-series-one",
+          "code": "DND1",
+          "name": "Dungeons & Dragons HeroClix: Series One",
+          "current_config_version": 1,
+          "engine_version": 3,
+          "config_path": "games/heroclix/sets/dnd-series-one/configs/v1.json"
         }
       ]
     }
